@@ -94,3 +94,14 @@ YouTube Channel: [Boston Dynamics](https://www.youtube.com/@BostonDynamics)
 
 - **[Walker S](https://www.youtube.com/watch?v=8MRDF2pkIRs&t=0s)**  
   [![YouTube](https://img.youtube.com/vi/8MRDF2pkIRs/0.jpg)](https://www.youtube.com/watch?v=8MRDF2pkIRs)
+
+## Related Lists and Sources
+
+### Lists
+- [List of Commercial Humanoid Robots](https://nathan-peterman.com/List-of-Commercial-Humanoid-Robots-48c44dcf0efc452eab6697b78292f4af)
+- [BotsLikeYou](https://www.botslikeyou.com/comparator-robot)
+- [Awesome Robotics and Artificially Intelligence Agent Companies](https://github.com/balloch/awesome-robotics-ai-companies)
+
+### Video
+- CNBC Report: Why Nvidia, Tesla, Amazon And More Are Betting Big On AI-Powered Humanoid Robots
+  [![YouTube](http://i.ytimg.com/vi/v0uKLCZocjs/hqdefault.jpg)](https://www.youtube.com/watch?v=v0uKLCZocjs)
