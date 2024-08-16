@@ -1,10 +1,26 @@
-# 🤖 List of AGI, AI and Humanoid Robots
+# 🤖 Awesome List of AGI, AI and Humanoid Robots
 
-For each robot in the list, there is a link to a YouTube video. The video shows the robot and its capabilities, and clicking on the manufacturer will take you to their website with all the product information.
+A curated list of top AI and humanoid robots, featuring video demonstrations of their capabilities. This list showcases some of the most advanced and interesting AI and humanoid robots currently in development. Each entry includes:
 
-## [Boston Dynamics](https://bostondynamics.com/)
+- Basic information about the company
+- Links to their official website and YouTube channel
+- Specific robot models with links to demonstration videos
 
-YouTube Channel: [Boston Dynamics](https://www.youtube.com/@BostonDynamics)
+The goal is to provide an up-to-date overview of the state of the art in robotics and AI.
+
+Note: Your contributions are welcome! If you notice any missing information, errors, or typos, please open an issue or submit a pull request. Thank you!
+
+## Boston Dynamics
+
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| **Name**            | Boston Dynamics, Inc.                   |
+| **Type**            | Commercial                              |
+| **Country**         | United States                           |
+| **Headquarters**    | Waltham, Massachusetts, USA             |
+| **Founded**         | 1992                                    |
+| **Website**         | https://www.bostondynamics.com          |
+| **YouTube Channel** | https://www.youtube.com/@BostonDynamics |
 
 - **[Atlas](https://www.youtube.com/watch?v=29ECwExc-_M)**  
   [![YouTube](https://img.youtube.com/vi/29ECwExc-_M/0.jpg)](https://www.youtube.com/watch?v=29ECwExc-_M)
@@ -15,19 +31,47 @@ YouTube Channel: [Boston Dynamics](https://www.youtube.com/@BostonDynamics)
 - **[Strech](https://www.youtube.com/watch?v=yYUuWWnfRsk)**  
   [![YouTube](https://img.youtube.com/vi/yYUuWWnfRsk/0.jpg)](https://www.youtube.com/watch?v=yYUuWWnfRsk)
 
-## [Tesla](https://www.tesla.com/AI)
+## Tesla
 
-
+|                     |                                |
+| ------------------- | ------------------------------ |
+| **Name**            | Tesla, Inc.                    |
+| **Type**            | Commercial                     |
+| **Country**         | United States                  |
+| **Headquarters**    | Austin, Texas , USA            |
+| **Founded**         | 2003                           |
+| **Website**         | https://www.tesla.com          |
+| **YouTube Channel** | https://www.youtube.com/@tesla |
 
 - **[Tesla Bot/Optimus Gen 2](https://www.youtube.com/watch?v=cpraXaw7dyc)**  
   [![YouTube](https://img.youtube.com/vi/cpraXaw7dyc/0.jpg)](https://www.youtube.com/watch?v=cpraXaw7dyc)
 
-## [Astribot](https://astribot.com/index-en.html)
+## Astribot
+
+|                     |                                    |
+| ------------------- | ---------------------------------- |
+| **Name**            | Astribot Inc.                      |
+| **Type**            | Commercial                         |
+| **Country**         | China                              |
+| **Headquarters**    | Shenzhen, China                    |
+| **Founded**         | -                                  |
+| **Website**         | https://astribot.com/index-en.html |
+| **YouTube Channel** | https://www.youtube.com/@Astribot  |
 
 - **[Astribot S1](https://www.youtube.com/watch?v=AePEcHIIk9s)**  
   [![YouTube](https://img.youtube.com/vi/AePEcHIIk9s/0.jpg)](https://www.youtube.com/watch?v=AePEcHIIk9s)
 
-## [Unitree Robotics](https://www.unitree.com/)
+## Unitree Robotics
+
+|                     |                                          |
+| ------------------- | ---------------------------------------- |
+| **Name**            | Unitree Robotics                         |
+| **Type**            | Commercial                               |
+| **Country**         | China                                    |
+| **Headquarters**    | Hangzhou City, Zhejiang Province, China  |
+| **Founded**         | 2016                                     |
+| **Website**         | https://www.unitree.com/                 |
+| **YouTube Channel** | https://www.youtube.com/@unitreerobotics |
 
 - **[Unitree G1](https://www.youtube.com/watch?v=GzX1qOIO1bE)**  
   [![YouTube](https://img.youtube.com/vi/GzX1qOIO1bE/0.jpg)](https://www.youtube.com/watch?v=GzX1qOIO1bE)
@@ -42,7 +86,17 @@ YouTube Channel: [Boston Dynamics](https://www.youtube.com/@BostonDynamics)
 - **[Unitree B2](https://www.youtube.com/watch?v=-0n_MFLKD3M)**  
   [![YouTube](https://img.youtube.com/vi/-0n_MFLKD3M/0.jpg)](https://www.youtube.com/watch?v=-0n_MFLKD3M)
 
-## [Figure AI](https://www.figure.ai/)
+## Figure AI
+
+|                     |                                   |
+| ------------------- | --------------------------------- |
+| **Name**            | Figure AI, Inc.                   |
+| **Type**            | Commercial                        |
+| **Country**         | United States                     |
+| **Headquarters**    | Sunnyvale, California, USA        |
+| **Founded**         | 2022                              |
+| **Website**         | https://www.figure.ai/            |
+| **YouTube Channel** | https://www.youtube.com/@figureai |
 
 - **[Figure 01](https://www.youtube.com/watch?v=b37rQZ4maPo)**  
   [![YouTube](https://img.youtube.com/vi/b37rQZ4maPo/0.jpg)](https://www.youtube.com/watch?v=b37rQZ4maPo)
@@ -86,7 +140,7 @@ YouTube Channel: [Boston Dynamics](https://www.youtube.com/@BostonDynamics)
 
 ## [1X](https://www.1x.tech/)
 
-- **NEO**  
+- **NEO**
 - **[EVE](https://www.youtube.com/watch?v=20GHG-R9eFI)**  
   [![YouTube](https://img.youtube.com/vi/20GHG-R9eFI/0.jpg)](https://www.youtube.com/watch?v=20GHG-R9eFI)
 
@@ -98,10 +152,12 @@ YouTube Channel: [Boston Dynamics](https://www.youtube.com/@BostonDynamics)
 ## Related Lists and Sources
 
 ### Lists
+
 - [List of Commercial Humanoid Robots](https://nathan-peterman.com/List-of-Commercial-Humanoid-Robots-48c44dcf0efc452eab6697b78292f4af)
 - [BotsLikeYou](https://www.botslikeyou.com/comparator-robot)
 - [Awesome Robotics and Artificially Intelligence Agent Companies](https://github.com/balloch/awesome-robotics-ai-companies)
 
 ### Video
+
 - CNBC Report: Why Nvidia, Tesla, Amazon And More Are Betting Big On AI-Powered Humanoid Robots
   [![YouTube](http://i.ytimg.com/vi/v0uKLCZocjs/hqdefault.jpg)](https://www.youtube.com/watch?v=v0uKLCZocjs)
