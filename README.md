@@ -15,7 +15,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | **Name**            | Boston Dynamics, Inc.                   |
-| **Type**            | Commercial                              |
+| **Type**            | Commercial, Subsidiary                  |
 | **Country**         | United States                           |
 | **Headquarters**    | Waltham, Massachusetts, USA             |
 | **Founded**         | 1992                                    |
@@ -36,7 +36,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                |
 | ------------------- | ------------------------------ |
 | **Name**            | Tesla, Inc.                    |
-| **Type**            | Commercial                     |
+| **Type**            | Commercial, Public             |
 | **Country**         | United States                  |
 | **Headquarters**    | Austin, Texas , USA            |
 | **Founded**         | 2003                           |
@@ -103,20 +103,52 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - **[Figure 02](https://www.youtube.com/watch?v=0SRVJaOg9Co)**  
   [![YouTube](https://img.youtube.com/vi/0SRVJaOg9Co/0.jpg)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
-## [Sanctuary AI](https://sanctuary.ai/)
+## Sanctuary AI
+
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| **Name**            | Sanctuary Cognitive Systems Corporation |
+| **Type**            | Commercial, Private                     |
+| **Country**         | Canada                                  |
+| **Headquarters**    | Vancouver, British Columbia, Canada     |
+| **Founded**         | 2018                                    |
+| **Website**         | https://sanctuary.ai/                   |
+| **YouTube Channel** | https://www.youtube.com/@sanctuaryai    |
 
 - **[Phoenix Gen 7](https://www.youtube.com/watch?v=-HizP4UQvug)**  
   [![YouTube](https://img.youtube.com/vi/-HizP4UQvug/0.jpg)](https://www.youtube.com/watch?v=-HizP4UQvug)
 
 ## [NEURA Robotics](https://neura-robotics.com/)
 
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **Name**            | NEURA Robotics GmbH                    |
+| **Type**            | Commercial                             |
+| **Country**         | Germany                                |
+| **Headquarters**    | Metzingen, Germany                     |
+| **Founded**         | 2019                                   |
+| **Website**         | https://neura-robotics.com/            |
+| **YouTube Channel** | https://www.youtube.com/@NEURARobotics |
+
 - **[4NE-1](https://www.youtube.com/watch?v=SGR-FTNeMAI)**  
   [![YouTube](https://img.youtube.com/vi/SGR-FTNeMAI/0.jpg)](https://www.youtube.com/watch?v=SGR-FTNeMAI)
 
 ## ROBOT ERA
 
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| **Name**            | -                                       |
+| **Type**            | Commercial                              |
+| **Country**         | China                                   |
+| **Headquarters**    | China                                   |
+| **Founded**         | 2023                                    |
+| **Website**         | https://www.robotera.com/               |
+| **YouTube Channel** | https://www.youtube.com/@ROBOTERA-pg4ew |
+
 - **[Xhand](https://www.youtube.com/watch?v=Iq9mgwy5o7U)**  
   [![YouTube](https://img.youtube.com/vi/Iq9mgwy5o7U/0.jpg)](https://www.youtube.com/watch?v=Iq9mgwy5o7U)
+- **[XBot-L](https://www.youtube.com/watch?v=nx2YO3twZYs)**  
+  [![YouTube](https://img.youtube.com/vi/nx2YO3twZYs/0.jpg)](https://www.youtube.com/watch?v=nx2YO3twZYs)
 
 ## [Engineered Arts](https://www.engineeredarts.co.uk)
 
@@ -130,24 +162,77 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## [Agility Robotics](https://agilityrobotics.com/)
 
+|                     |                                          |
+| ------------------- | ---------------------------------------- |
+| **Name**            | Agility Robotics, Inc.                   |
+| **Type**            | Commercial, Private                      |
+| **Country**         | United States                            |
+| **Headquarters**    | Salem, Oregon, USA                       |
+| **Founded**         | 2015                                     |
+| **Website**         | https://agilityrobotics.com/             |
+| **YouTube Channel** | https://www.youtube.com/@AgilityRobotics |
+
 - **[Digit](https://www.youtube.com/watch?v=rnFZAB9ogEE)**  
   [![YouTube](https://img.youtube.com/vi/rnFZAB9ogEE/0.jpg)](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 
-## [Apptronik](https://apptronik.com/)
+## Apptronik
+
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **Name**            | Apptronik, Inc.                        |
+| **Type**            | Commercial                             |
+| **Country**         | United States                          |
+| **Headquarters**    | Austin, Texas, USA                     |
+| **Founded**         | 2012                                   |
+| **Website**         | https://apptronik.com/                 |
+| **YouTube Channel** | https://www.youtube.com/@apptronik8459 |
 
 - **[Apollo](https://www.youtube.com/watch?v=uJOA5IDaL5g)**  
   [![YouTube](https://img.youtube.com/vi/uJOA5IDaL5g/0.jpg)](https://www.youtube.com/watch?v=uJOA5IDaL5g)
+- **[Astra](https://www.youtube.com/watch?v=XulyFshFQMg)**  
+  [![YouTube](https://img.youtube.com/vi/XulyFshFQMg/0.jpg)](https://www.youtube.com/watch?v=XulyFshFQMg)
 
-## [1X](https://www.1x.tech/)
+## 1X Technologies
+
+|                     |                                  |
+| ------------------- | -------------------------------- |
+| **Name**            | 1X Technologies                  |
+| **Type**            | Commercial                       |
+| **Country**         | United States                    |
+| **Headquarters**    | Sunnyvale, California, USA       |
+| **Founded**         | 2014                             |
+| **Website**         | https://www.1x.tech/             |
+| **YouTube Channel** | https://www.youtube.com/@1X-tech |
 
 - **NEO**
 - **[EVE](https://www.youtube.com/watch?v=20GHG-R9eFI)**  
   [![YouTube](https://img.youtube.com/vi/20GHG-R9eFI/0.jpg)](https://www.youtube.com/watch?v=20GHG-R9eFI)
 
-## [UBTECH Robotics](https://www.ubtrobot.com/)
+## UBTECH Robotics
+
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| **Name**            | UBTECH Robotics                         |
+| **Type**            | Commercial, Public                      |
+| **Country**         | China                                   |
+| **Headquarters**    | Shenzhen, China                         |
+| **Founded**         | 2012                                    |
+| **Website**         | https://www.ubtrobot.com/               |
+| **YouTube Channel** | https://www.youtube.com/@ubtechrobotics |
 
 - **[Walker S](https://www.youtube.com/watch?v=8MRDF2pkIRs&t=0s)**  
   [![YouTube](https://img.youtube.com/vi/8MRDF2pkIRs/0.jpg)](https://www.youtube.com/watch?v=8MRDF2pkIRs)
+- **[Walker X](https://www.youtube.com/watch?v=4ZL3LgdKNbw)**  
+  [![YouTube](https://img.youtube.com/vi/4ZL3LgdKNbw/0.jpg)](https://www.youtube.com/watch?v=4ZL3LgdKNbw)
+
+## [Mentee Robotics](https://www.menteebot.com/)
+
+- **[MenteeBot](https://www.youtube.com/watch?v=fzjdXD1pGpI)**  
+  [![YouTube](https://img.youtube.com/vi/fzjdXD1pGpI/0.jpg)](https://www.youtube.com/watch?v=fzjdXD1pGpI)
+
+## [Hanson Robotics](https://www.hansonrobotics.com/)
+
+## [PAL Robotics](https://pal-robotics.com/)
 
 ## Related Lists and Sources
 
@@ -159,5 +244,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ### Video
 
-- CNBC Report: Why Nvidia, Tesla, Amazon And More Are Betting Big On AI-Powered Humanoid Robots
+- CNBC Report: Why Nvidia, Tesla, Amazon And More Are Betting Big On AI-Powered Humanoid Robots  
   [![YouTube](http://i.ytimg.com/vi/v0uKLCZocjs/hqdefault.jpg)](https://www.youtube.com/watch?v=v0uKLCZocjs)
+- NBC News: Inside big tech's A.I. robot race  
+  [![YouTube](http://i.ytimg.com/vi/VLkSI_lwarE/hqdefault.jpg)](https://www.youtube.com/watch?v=VLkSI_lwarE)
