@@ -28,21 +28,39 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Booster Robotics](#booster-robotics)
   - [Booster T1](#booster-t1)
 - [Boston Dynamics](#boston-dynamics)
-- [Engineered Arts](#engineered-arts)
+  - [Atlas](#atlas)
+  - [HD Atlas](#hd-atlas-last-generation-hydraulic-atlas)
+  - [Spot](#spot) -[Strech](#strech)
+- [Engineered Arts](#engineered-arts) -[Ameca](#ameca)
 - [Figure AI](#figure-ai)
+  - [Figure 01](#figure-01)
+  - [Figure 02](#figure-02)
 - [Fourier Intelligence-Robotics](#fourier-intelligence-robotics)
+  - [Fourier GR-1](#fourier-gr-1)
 - [Hanson Robotics](#hanson-robotics)
 - [Kepler]()
 - [LimX Dynamics]()
 - [Mentee Robotics](#mentee-robotics)
+  - [MenteeBot](#menteebot)
 - [NEURA Robotics](#neura-robotics)
+  - [4NE-1](#4ne-1)
 - [PAL Robotics](#pal-robotics)
 - [ROBOT ERA](#robot-era)
+  - [Xhand](#xhand)
+  - [XBot-L](#xbot-l)
 - [Sanctuary AI](#sanctuary-ai)
+  - [Phoenix Gen 7](#phoenix-gen-7)
 - [Softbank Robotics](#softbank-robotics)
 - [Tesla](#tesla)
+  - [Optimus Gen 2](#tesla-botoptimus-gen-2)
 - [UBTECH Robotics](#ubtech-robotics)
+  - [Walker S](#walker-s)
+  - [Walker X](#walker-x)
 - [Unitree Robotics](#unitree-robotics)
+
+  - [Unitree G1](#unitree-g1)
+  - [Unitree H1](#unitree-h1)
+
 - []()
 
 #### Research institutes and universities
@@ -79,15 +97,16 @@ No video has been found
 
 ## Agility Robotics
 
-|                     |                                          |
-| ------------------- | ---------------------------------------- |
-| **Name**            | Agility Robotics, Inc.                   |
-| **Type**            | Commercial, Private                      |
-| **Country**         | United States                            |
-| **Headquarters**    | Salem, Oregon, USA                       |
-| **Founded**         | 2015                                     |
-| **Website**         | https://agilityrobotics.com/             |
-| **YouTube Channel** | https://www.youtube.com/@AgilityRobotics |
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| **Name**            | Agility Robotics, Inc.                         |
+| **Type**            | Commercial, Private                            |
+| **Country**         | United States                                  |
+| **Headquarters**    | Salem, Oregon, USA                             |
+| **Founded**         | 2015                                           |
+| **Website**         | https://agilityrobotics.com/                   |
+| **YouTube Channel** | https://www.youtube.com/@AgilityRobotics       |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Agility_Robotics |
 
 ### [Digit](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 
@@ -141,15 +160,16 @@ No video has been found
 
 ## Boston Dynamics
 
-|                     |                                         |
-| ------------------- | --------------------------------------- |
-| **Name**            | Boston Dynamics, Inc.                   |
-| **Type**            | Commercial, Subsidiary                  |
-| **Country**         | United States                           |
-| **Headquarters**    | Waltham, Massachusetts, USA             |
-| **Founded**         | 1992                                    |
-| **Website**         | https://www.bostondynamics.com          |
-| **YouTube Channel** | https://www.youtube.com/@BostonDynamics |
+|                     |                                               |
+| ------------------- | --------------------------------------------- |
+| **Name**            | Boston Dynamics, Inc.                         |
+| **Type**            | Commercial, Subsidiary                        |
+| **Country**         | United States                                 |
+| **Headquarters**    | Waltham, Massachusetts, USA                   |
+| **Founded**         | 1992                                          |
+| **Website**         | https://www.bostondynamics.com                |
+| **YouTube Channel** | https://www.youtube.com/@BostonDynamics       |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Boston_Dynamics |
 
 ### [Atlas](https://www.youtube.com/watch?v=29ECwExc-_M)
 
@@ -169,21 +189,27 @@ No video has been found
 
 ## [Engineered Arts](https://www.engineeredarts.co.uk)
 
+|               |                                               |
+| ------------- | --------------------------------------------- |
+| **Name**      | Engineered Arts Ltd                           |
+| **Wikipedia** | https://en.wikipedia.org/wiki/Engineered_Arts |
+
 ### [Ameca](https://www.youtube.com/watch?v=IPukuYb9xWw)
 
 [![YouTube](https://img.youtube.com/vi/IPukuYb9xWw/0.jpg)](https://www.youtube.com/watch?v=IPukuYb9xWw)
 
 ## Figure AI
 
-|                     |                                   |
-| ------------------- | --------------------------------- |
-| **Name**            | Figure AI, Inc.                   |
-| **Type**            | Commercial                        |
-| **Country**         | United States                     |
-| **Headquarters**    | Sunnyvale, California, USA        |
-| **Founded**         | 2022                              |
-| **Website**         | https://www.figure.ai/            |
-| **YouTube Channel** | https://www.youtube.com/@figureai |
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| **Name**            | Figure AI, Inc.                         |
+| **Type**            | Commercial                              |
+| **Country**         | United States                           |
+| **Headquarters**    | Sunnyvale, California, USA              |
+| **Founded**         | 2022                                    |
+| **Website**         | https://www.figure.ai/                  |
+| **YouTube Channel** | https://www.youtube.com/@figureai       |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Figure_AI |
 
 ### [Figure 01](https://www.youtube.com/watch?v=b37rQZ4maPo)
 
@@ -200,6 +226,11 @@ No video has been found
 [![YouTube](https://img.youtube.com/vi/_MBd_XfXy9M/0.jpg)](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
 ## [Hanson Robotics](https://www.hansonrobotics.com/)
+
+|               |                                               |
+| ------------- | --------------------------------------------- |
+| **Name**      | Hanson Robotics Limited                       |
+| **Wikipedia** | https://en.wikipedia.org/wiki/Hanson_Robotics |
 
 ## [LimX Dynamics](https://www.limxdynamics.com/en)
 
@@ -271,15 +302,16 @@ No video has been found
 
 ## Tesla
 
-|                     |                                |
-| ------------------- | ------------------------------ |
-| **Name**            | Tesla, Inc.                    |
-| **Type**            | Commercial, Public             |
-| **Country**         | United States                  |
-| **Headquarters**    | Austin, Texas , USA            |
-| **Founded**         | 2003                           |
-| **Website**         | https://www.tesla.com          |
-| **YouTube Channel** | https://www.youtube.com/@tesla |
+|                     |                                           |
+| ------------------- | ----------------------------------------- |
+| **Name**            | Tesla, Inc.                               |
+| **Type**            | Commercial, Public                        |
+| **Country**         | United States                             |
+| **Headquarters**    | Austin, Texas , USA                       |
+| **Founded**         | 2003                                      |
+| **Website**         | https://www.tesla.com                     |
+| **YouTube Channel** | https://www.youtube.com/@tesla            |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Tesla,_Inc. |
 
 ### [Tesla Bot/Optimus Gen 2](https://www.youtube.com/watch?v=cpraXaw7dyc)
 
