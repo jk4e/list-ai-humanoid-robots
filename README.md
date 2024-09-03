@@ -27,12 +27,17 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Astribot](#astribot)
   - [Astribot S1](#astribot-s1)
 - [Beyond Imagination](#beyond-imagination)
+  - [Beomni](#beomni)
+- [Boardwalk Robotics](#boardwalk-robotics)
+  - [ALEX](#alex)
 - [Booster Robotics](#booster-robotics)
   - [Booster T1](#booster-t1)
 - [Boston Dynamics](#boston-dynamics)
   - [Atlas](#atlas)
   - [HD Atlas](#hd-atlas-last-generation-hydraulic-atlas)
   - [Spot](#spot) -[Strech](#strech)
+- [Diligent Robotics]()
+  - [Moxi]()
 - [Engineered Arts](#engineered-arts) -[Ameca](#ameca)
 - [Figure AI](#figure-ai)
   - [Figure 01](#figure-01)
@@ -64,11 +69,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Walker S](#walker-s)
   - [Walker X](#walker-x)
 - [Unitree Robotics](#unitree-robotics)
-
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
-
-- []()
+- [Xiaomi]()
+  - [CyberOne]()
 
 #### Research institutes and universities
 
@@ -177,6 +181,14 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ### Beomni
 
+## Boardwalk Robotics
+
+|             |                                |
+| ----------- | ------------------------------ |
+| **Website** | https://boardwalkrobotics.com/ |
+
+### ALEX
+
 ## Booster Robotics
 
 ### [Booster T1](https://www.youtube.com/watch?v=WXcz-4QBmTY)
@@ -211,6 +223,16 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [Strech](https://www.youtube.com/watch?v=yYUuWWnfRsk)
 
 [![YouTube](https://img.youtube.com/vi/yYUuWWnfRsk/0.jpg)](https://www.youtube.com/watch?v=yYUuWWnfRsk)
+
+## Diligent Robotics
+
+|             |                                 |
+| ----------- | ------------------------------- |
+| **Website** | https://www.diligentrobots.com/ |
+
+### [Moxi](https://www.youtube.com/watch?v=EFQYN55nVmw)
+
+[![YouTube](https://img.youtube.com/vi/EFQYN55nVmw/0.jpg)](https://www.youtube.com/watch?v=EFQYN55nVmw)
 
 ## Engineered Arts
 
@@ -449,6 +471,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [Unitree B2](https://www.youtube.com/watch?v=-0n_MFLKD3M)
 
 [![YouTube](https://img.youtube.com/vi/-0n_MFLKD3M/0.jpg)](https://www.youtube.com/watch?v=-0n_MFLKD3M)
+
+## Xiaomi
+
+### [CyberOne](https://www.youtube.com/watch?v=I28Q9czUx2Q)
+
+[![YouTube](https://img.youtube.com/vi/I28Q9czUx2Q/0.jpg)](https://www.youtube.com/watch?v=I28Q9czUx2Q)
 
 ## Related Lists and Sources
 
