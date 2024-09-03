@@ -17,6 +17,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [1X Technologies](#1x-technologies)
   - [EVE](#eve)
   - [NEO](#neo)
+- [AGIBOT](#agibot)
+  - [AGIBOT RAISE-A1](#agibot-raise-a1-note-official-video-not-available)
 - [Agility Robotics](#agility-robotics)
   - [Digit](#digit)
 - [Apptronik](#apptronik)
@@ -38,13 +40,18 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Fourier Intelligence-Robotics](#fourier-intelligence-robotics)
   - [Fourier GR-1](#fourier-gr-1)
 - [Hanson Robotics](#hanson-robotics)
+  - [Sophia](#sophia)
 - [Kepler]()
-- [LimX Dynamics]()
+- [LimX Dynamics](#limx-dynamics)
+  - [CL-1](#cl-1)
 - [Mentee Robotics](#mentee-robotics)
   - [MenteeBot](#menteebot)
 - [NEURA Robotics](#neura-robotics)
   - [4NE-1](#4ne-1)
 - [PAL Robotics](#pal-robotics)
+  - [TALOS](#talos)
+- [PNDbotics](#pndbotics)
+  - [Adam](#adam)
 - [ROBOT ERA](#robot-era)
   - [Xhand](#xhand)
   - [XBot-L](#xbot-l)
@@ -91,9 +98,22 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/20GHG-R9eFI/0.jpg)](https://www.youtube.com/watch?v=20GHG-R9eFI)
 
-### NEO
+### [NEO](https://www.youtube.com/watch?v=bUrLuUxv9gE)
 
-No video has been found
+[![YouTube](https://img.youtube.com/vi/bUrLuUxv9gE/0.jpg)](https://www.youtube.com/watch?v=bUrLuUxv9gE)
+
+## AGIBOT
+
+|                     |                         |
+| ------------------- | ----------------------- |
+| **Type**            | Commercial              |
+| **Country**         | China                   |
+| **YouTube Channel** | -                       |
+| **Website**         | https://www.agibot.com/ |
+
+### [AGIBOT RAISE-A1](https://www.youtube.com/watch?v=PIYJtZmzs70) (Note: official video not available)
+
+[![YouTube](https://img.youtube.com/vi/PIYJtZmzs70/0.jpg)](https://www.youtube.com/watch?v=PIYJtZmzs70)
 
 ## Agility Robotics
 
@@ -128,7 +148,7 @@ No video has been found
 
 [![YouTube](https://img.youtube.com/vi/uJOA5IDaL5g/0.jpg)](https://www.youtube.com/watch?v=uJOA5IDaL5g)
 
-#### [Astra](https://www.youtube.com/watch?v=XulyFshFQMg)
+### [Astra](https://www.youtube.com/watch?v=XulyFshFQMg)
 
 [![YouTube](https://img.youtube.com/vi/XulyFshFQMg/0.jpg)](https://www.youtube.com/watch?v=XulyFshFQMg)
 
@@ -149,6 +169,11 @@ No video has been found
 [![YouTube](https://img.youtube.com/vi/AePEcHIIk9s/0.jpg)](https://www.youtube.com/watch?v=AePEcHIIk9s)
 
 ## Beyond Imagination
+
+|             |                          |
+| ----------- | ------------------------ |
+| **Name**    | Beyond Imagination, Inc. |
+| **Website** | https://www.beomni.ai/   |
 
 ### Beomni
 
@@ -187,12 +212,18 @@ No video has been found
 
 [![YouTube](https://img.youtube.com/vi/yYUuWWnfRsk/0.jpg)](https://www.youtube.com/watch?v=yYUuWWnfRsk)
 
-## [Engineered Arts](https://www.engineeredarts.co.uk)
+## Engineered Arts
 
-|               |                                               |
-| ------------- | --------------------------------------------- |
-| **Name**      | Engineered Arts Ltd                           |
-| **Wikipedia** | https://en.wikipedia.org/wiki/Engineered_Arts |
+|                     |                                               |
+| ------------------- | --------------------------------------------- |
+| **Name**            | Engineered Arts Ltd                           |
+| **Type**            | Commercial                                    |
+| **Country**         | England                                       |
+| **Headquarters**    | Falmouth, Cornwall, England                   |
+| **Founded**         | 2004                                          |
+| **Website**         | https://engineeredarts.co.uk/                 |
+| **YouTube Channel** | https://www.youtube.com/@EngineeredArtsLtd    |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Engineered_Arts |
 
 ### [Ameca](https://www.youtube.com/watch?v=IPukuYb9xWw)
 
@@ -219,18 +250,37 @@ No video has been found
 
 [![YouTube](https://img.youtube.com/vi/0SRVJaOg9Co/0.jpg)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
-## [Fourier Intelligence-Robotics](https://fourierintelligence.com/)
+## Fourier Intelligence-Robotics
+
+|                     |                                                       |
+| ------------------- | ----------------------------------------------------- |
+| **Name**            | Fourier Intelligence                                  |
+| **Type**            | Commercial                                            |
+| **Country**         | China                                                 |
+| **Headquarters**    | Shanghai, China                                       |
+| **Founded**         | 2015                                                  |
+| **Website**         | https://fourierintelligence.com/                      |
+| **YouTube Channel** | https://www.youtube.com/@FourierIntelligence-Robotics |
+| **Wikipedia**       | -                                                     |
 
 ### [Fourier GR-1](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
 [![YouTube](https://img.youtube.com/vi/_MBd_XfXy9M/0.jpg)](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
-## [Hanson Robotics](https://www.hansonrobotics.com/)
+## Hanson Robotics
 
-|               |                                               |
-| ------------- | --------------------------------------------- |
-| **Name**      | Hanson Robotics Limited                       |
-| **Wikipedia** | https://en.wikipedia.org/wiki/Hanson_Robotics |
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| **Name**            | Hanson Robotics Limited                        |
+| **Type**            | Commercial, Private                            |
+| **Country**         | Hong Kong                                      |
+| **Headquarters**    | Science Park, Hong Kong                        |
+| **Founded**         | 2007                                           |
+| **Website**         | https://www.hansonrobotics.com/                |
+| **YouTube Channel** | https://www.youtube.com/@HansonRoboticsLimited |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Hanson_Robotics  |
+
+### Sophia
 
 ## [LimX Dynamics](https://www.limxdynamics.com/en)
 
@@ -260,7 +310,29 @@ No video has been found
 
 [![YouTube](https://img.youtube.com/vi/SGR-FTNeMAI/0.jpg)](https://www.youtube.com/watch?v=SGR-FTNeMAI)
 
-## [PAL Robotics](https://pal-robotics.com/)
+## PAL Robotics
+
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **Country**         | Spain                                  |
+| **Headquarters**    | Barcelona, Spain                       |
+| **Founded**         | 2004                                   |
+| **Website**         | https://pal-robotics.com/              |
+| **YouTube Channel** | https://www.youtube.com/@NEURARobotics |
+
+### [TALOS](https://www.youtube.com/watch?v=qVzHe8FG984)
+
+[![YouTube](https://img.youtube.com/vi/qVzHe8FG984/0.jpg)](https://www.youtube.com/watch?v=qVzHe8FG984)
+
+## [PNDbotics]()
+
+|                     |                                           |
+| ------------------- | ----------------------------------------- |
+| **YouTube Channel** | https://www.youtube.com/@PNDbotics/videos |
+
+### [Adam](https://www.youtube.com/watch?v=Nmyymmd7bgE)
+
+[![YouTube](https://img.youtube.com/vi/Nmyymmd7bgE/0.jpg)](https://www.youtube.com/watch?v=Nmyymmd7bgE)
 
 ## ROBOT ERA
 
@@ -299,6 +371,11 @@ No video has been found
 [![YouTube](https://img.youtube.com/vi/-HizP4UQvug/0.jpg)](https://www.youtube.com/watch?v=-HizP4UQvug)
 
 ## Softbank Robotics
+
+|             |                                  |
+| ----------- | -------------------------------- |
+| **Name**    | Softbank Robotics America, Inc.  |
+| **Website** | https://us.softbankrobotics.com/ |
 
 ## Tesla
 
