@@ -96,7 +96,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | -------------------------------- |
 | **Name**            | 1X Technologies                  |
 | **Type**            | Commercial                       |
-| **Country**         | United States                    |
+| **Country**         | 🇺🇸 United States                 |
 | **Headquarters**    | Sunnyvale, California, USA       |
 | **Founded**         | 2014                             |
 | **Website**         | https://www.1x.tech/             |
@@ -115,7 +115,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                         |
 | ------------------- | ----------------------- |
 | **Type**            | Commercial              |
-| **Country**         | China                   |
+| **Country**         | 🇨🇳 China                |
 | **YouTube Channel** | -                       |
 | **Website**         | https://www.agibot.com/ |
 
@@ -129,7 +129,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | ---------------------------------------------- |
 | **Name**            | Agility Robotics, Inc.                         |
 | **Type**            | Commercial, Private                            |
-| **Country**         | United States                                  |
+| **Country**         | 🇺🇸 United States                               |
 | **Headquarters**    | Salem, Oregon, USA                             |
 | **Founded**         | 2015                                           |
 | **Website**         | https://agilityrobotics.com/                   |
@@ -146,7 +146,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | -------------------------------------- |
 | **Name**            | Apptronik, Inc.                        |
 | **Type**            | Commercial                             |
-| **Country**         | United States                          |
+| **Country**         | 🇺🇸 United States                       |
 | **Headquarters**    | Austin, Texas, USA                     |
 | **Founded**         | 2012                                   |
 | **Website**         | https://apptronik.com/                 |
@@ -166,7 +166,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | ---------------------------------- |
 | **Name**            | Astribot Inc.                      |
 | **Type**            | Commercial                         |
-| **Country**         | China                              |
+| **Country**         | 🇨🇳 China                           |
 | **Headquarters**    | Shenzhen, China                    |
 | **Founded**         | -                                  |
 | **Website**         | https://astribot.com/index-en.html |
@@ -205,7 +205,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | --------------------------------------------- |
 | **Name**            | Boston Dynamics, Inc.                         |
 | **Type**            | Commercial, Subsidiary                        |
-| **Country**         | United States                                 |
+| **Country**         | 🇺🇸 United States                              |
 | **Headquarters**    | Waltham, Massachusetts, USA                   |
 | **Founded**         | 1992                                          |
 | **Website**         | https://www.bostondynamics.com                |
@@ -274,7 +274,7 @@ More YT-Videos:
 | ------------------- | --------------------------------------------- |
 | **Name**            | Engineered Arts Ltd                           |
 | **Type**            | Commercial                                    |
-| **Country**         | England                                       |
+| **Country**         | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England                                    |
 | **Headquarters**    | Falmouth, Cornwall, England                   |
 | **Founded**         | 2004                                          |
 | **Website**         | https://engineeredarts.co.uk/                 |
@@ -291,7 +291,7 @@ More YT-Videos:
 | ------------------- | --------------------------------------- |
 | **Name**            | Figure AI, Inc.                         |
 | **Type**            | Commercial                              |
-| **Country**         | United States                           |
+| **Country**         | 🇺🇸 United States                        |
 | **Headquarters**    | Sunnyvale, California, USA              |
 | **Founded**         | 2022                                    |
 | **Website**         | https://www.figure.ai/                  |
@@ -348,7 +348,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | ------------------- | ----------------------------------------------------- |
 | **Name**            | Fourier Intelligence                                  |
 | **Type**            | Commercial                                            |
-| **Country**         | China                                                 |
+| **Country**         | 🇨🇳 China                                              |
 | **Headquarters**    | Shanghai, China                                       |
 | **Founded**         | 2015                                                  |
 | **Website**         | https://fourierintelligence.com/                      |
@@ -365,7 +365,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | ------------------- | ---------------------------------------------- |
 | **Name**            | Hanson Robotics Limited                        |
 | **Type**            | Commercial, Private                            |
-| **Country**         | Hong Kong                                      |
+| **Country**         | 🇭🇰 Hong Kong                                   |
 | **Headquarters**    | Science Park, Hong Kong                        |
 | **Founded**         | 2007                                           |
 | **Website**         | https://www.hansonrobotics.com/                |
@@ -376,6 +376,11 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 ## <div align="center">[LimX Dynamics](https://www.limxdynamics.com/en)</div>
 
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| **Country**         | 🇨🇳 China                                       |
+| **Headquarters**    | Shenzhen, China                                |
+
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
 [![YouTube](https://img.youtube.com/vi/11Iz8x27jS4/0.jpg)](https://www.youtube.com/watch?v=11Iz8x27jS4)
@@ -385,7 +390,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 |                     |                                    |
 | ------------------- | ---------------------------------- |
 | **Name**            | Mentee Robotics                    |
-| **Country**         | Israel                             |
+| **Country**         | 🇮🇱 Israel                          |
 | **Headquarters**    | Herzliya, Israel                   |
 | **Website**         | https://www.menteebot.com/         |
 | **YouTube Channel** | https://www.youtube.com/@menteebot |
@@ -400,7 +405,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | ------------------- | -------------------------------------- |
 | **Name**            | NEURA Robotics GmbH                    |
 | **Type**            | Commercial                             |
-| **Country**         | Germany                                |
+| **Country**         | 🇩🇪 Germany                             |
 | **Headquarters**    | Metzingen, Germany                     |
 | **Founded**         | 2019                                   |
 | **Website**         | https://neura-robotics.com/            |
@@ -414,7 +419,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
-| **Country**         | Spain                                  |
+| **Country**         | 🇪🇸 Spain                               |
 | **Headquarters**    | Barcelona, Spain                       |
 | **Founded**         | 2004                                   |
 | **Website**         | https://pal-robotics.com/              |
@@ -428,6 +433,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 |                     |                                           |
 | ------------------- | ----------------------------------------- |
+| **Country**         | 🇨🇳 China                                  |
 | **YouTube Channel** | https://www.youtube.com/@PNDbotics/videos |
 
 ### [Adam](https://www.youtube.com/watch?v=Nmyymmd7bgE)
@@ -439,6 +445,9 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 |                     |                                       |
 | ------------------- | ------------------------------------- |
 | **Website**         | https://www.pudurobotics.com/         |
+| **Country**         | 🇨🇳 China                              |
+| **Headquarters**    | Shenzhen, China                       |
+| **Founded**         | 2016                                  |
 | **YouTube Channel** | https://www.youtube.com/@PuduRobotics |
 
 ### [PUDU D7](https://www.youtube.com/watch?v=CbA9wA9etGA)
@@ -451,7 +460,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | ------------------- | --------------------------------------- |
 | **Name**            | -                                       |
 | **Type**            | Commercial                              |
-| **Country**         | China                                   |
+| **Country**         | 🇨🇳 China                                |
 | **Headquarters**    | China                                   |
 | **Founded**         | 2023                                    |
 | **Website**         | https://www.robotera.com/               |
@@ -471,7 +480,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | ------------------- | --------------------------------------- |
 | **Name**            | Sanctuary Cognitive Systems Corporation |
 | **Type**            | Commercial, Private                     |
-| **Country**         | Canada                                  |
+| **Country**         | 🇨🇦 Canada                               |
 | **Headquarters**    | Vancouver, British Columbia, Canada     |
 | **Founded**         | 2018                                    |
 | **Website**         | https://sanctuary.ai/                   |
@@ -494,7 +503,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | ------------------- | ----------------------------------------- |
 | **Name**            | Tesla, Inc.                               |
 | **Type**            | Commercial, Public                        |
-| **Country**         | United States                             |
+| **Country**         | 🇺🇸 United States                          |
 | **Headquarters**    | Austin, Texas , USA                       |
 | **Founded**         | 2003                                      |
 | **Website**         | https://www.tesla.com                     |
@@ -517,7 +526,7 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 | ------------------- | --------------------------------------- |
 | **Name**            | UBTECH Robotics                         |
 | **Type**            | Commercial, Public                      |
-| **Country**         | China                                   |
+| **Country**         | 🇨🇳 China                                |
 | **Headquarters**    | Shenzhen, China                         |
 | **Founded**         | 2012                                    |
 | **Website**         | https://www.ubtrobot.com/               |
@@ -537,7 +546,7 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 | ------------------- | ---------------------------------------------- |
 | **Name**            | Unitree Robotics                               |
 | **Type**            | Commercial                                     |
-| **Country**         | China                                          |
+| **Country**         | 🇨🇳 China                                       |
 | **Headquarters**    | Hangzhou City, Zhejiang Province, China        |
 | **Founded**         | 2016                                           |
 | **Website**         | https://www.unitree.com/                       |
@@ -574,7 +583,7 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 | ------------------- | ------------------------------------ |
 | **Name**            | Xiaomi Corporation                   |
 | **Type**            | Commercial, Public                   |
-| **Country**         | China                                |
+| **Country**         | 🇨🇳 China                             |
 | **Headquarters**    | Beijing, China                       |
 | **Founded**         | 2010                                 |
 | **Website**         | https://www.mi.com/                  |
@@ -631,11 +640,11 @@ More YT-Videos:
   [![YouTube](http://i.ytimg.com/vi/v0uKLCZocjs/hqdefault.jpg)](https://www.youtube.com/watch?v=v0uKLCZocjs)
 - NBC News: Inside big tech's A.I. robot race  
   [![YouTube](http://i.ytimg.com/vi/VLkSI_lwarE/hqdefault.jpg)](https://www.youtube.com/watch?v=VLkSI_lwarE)
-- CNET: Unitree G1 vs. Boston Dynamics Atlas: Hypermobility in Humanoid Robots
+- CNET: Unitree G1 vs. Boston Dynamics Atlas: Hypermobility in Humanoid Robots  
   [![YouTube](https://img.youtube.com/vi/AWDQnkV2wh4/0.jpg)](https://www.youtube.com/watch?v=AWDQnkV2wh4)
-- CNET: Atlas vs. Optimus: Boston Dynamics & Tesla's Humanoid Robots
+- CNET: Atlas vs. Optimus: Boston Dynamics & Tesla's Humanoid Robots  
   [![YouTube](https://img.youtube.com/vi/rTiL9R_Q5PA/0.jpg)](https://www.youtube.com/watch?v=rTiL9R_Q5PA)
-- CNET: Humanoid Robots Head Home: Meet NEO Beta
+- CNET: Humanoid Robots Head Home: Meet NEO Beta  
   [![YouTube](https://img.youtube.com/vi/BzPz7pg28Zg/0.jpg)](https://www.youtube.com/watch?v=BzPz7pg28Zg)
-- CNET: Meet the $16K Humanoid Robot Leaping Into Production
+- CNET: Meet the $16K Humanoid Robot Leaping Into Production  
   [![YouTube](https://img.youtube.com/vi/y2KF2DnvN9Y/0.jpg)](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
