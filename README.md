@@ -1,4 +1,6 @@
-# 🤖 Awesome List of AGI, AI and Humanoid Robots
+# <div align="center">🤖 Awesome List of AGI, AI and Humanoid Robots</div>
+
+![ai-humanoid-robots](ai-robot-banner.svg)
 
 A curated list of top AI and humanoid robots, featuring video demonstrations of their capabilities. This list showcases some of the most advanced and interesting AI and humanoid robots currently in development. Each entry includes:
 
@@ -57,6 +59,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [TALOS](#talos)
 - [PNDbotics](#pndbotics)
   - [Adam](#adam)
+- [Pudu Robotics](#pudu-robotics)
+  - [PUDU D7](#pudu-d7)
 - [ROBOT ERA](#robot-era)
   - [Xhand](#xhand)
   - [XBot-L](#xbot-l)
@@ -86,7 +90,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Lists](#lists)
 - [Coverage of the topic in the media](#videos)
 
-## 1X Technologies
+## <div align="center">1X Technologies</div>
 
 |                     |                                  |
 | ------------------- | -------------------------------- |
@@ -106,7 +110,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/bUrLuUxv9gE/0.jpg)](https://www.youtube.com/watch?v=bUrLuUxv9gE)
 
-## AGIBOT
+## <div align="center">AGIBOT</div>
 
 |                     |                         |
 | ------------------- | ----------------------- |
@@ -119,7 +123,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/PIYJtZmzs70/0.jpg)](https://www.youtube.com/watch?v=PIYJtZmzs70)
 
-## Agility Robotics
+## Agility Robotics<div align="center"></div>
 
 |                     |                                                |
 | ------------------- | ---------------------------------------------- |
@@ -136,7 +140,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/rnFZAB9ogEE/0.jpg)](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 
-## Apptronik
+## <div align="center">Apptronik</div>
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
@@ -156,7 +160,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/XulyFshFQMg/0.jpg)](https://www.youtube.com/watch?v=XulyFshFQMg)
 
-## Astribot
+## <div align="center">Astribot</div>
 
 |                     |                                    |
 | ------------------- | ---------------------------------- |
@@ -172,7 +176,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/AePEcHIIk9s/0.jpg)](https://www.youtube.com/watch?v=AePEcHIIk9s)
 
-## Beyond Imagination
+## <div align="center">Beyond Imagination</div>
 
 |             |                          |
 | ----------- | ------------------------ |
@@ -181,7 +185,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ### Beomni
 
-## Boardwalk Robotics
+## <div align="center">Boardwalk Robotics</div>
 
 |             |                                |
 | ----------- | ------------------------------ |
@@ -189,13 +193,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ### ALEX
 
-## Booster Robotics
+## <div align="center">Booster Robotics</div>
 
 ### [Booster T1](https://www.youtube.com/watch?v=WXcz-4QBmTY)
 
 [![YouTube](https://img.youtube.com/vi/WXcz-4QBmTY/0.jpg)](https://www.youtube.com/watch?v=WXcz-4QBmTY)
 
-## Boston Dynamics
+## <div align="center">Boston Dynamics</div>
 
 |                     |                                               |
 | ------------------- | --------------------------------------------- |
@@ -216,6 +220,36 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/-9EM5_VFlt8/0.jpg)](https://www.youtube.com/watch?v=-9EM5_VFlt8)
 
+More YT-Videos:
+
+<table style="width:100%">
+  <tr>
+    <th style="width:33%"></th>
+    <th style="width:33%"></th>
+    <th style="width:33%"></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=LeeiN9smjjY">
+        <img src="https://img.youtube.com/vi/LeeiN9smjjY/0.jpg" alt="HD Atlas Manipulates | Boston Dynamics" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=LeeiN9smjjY">HD Atlas Manipulates | Boston Dynamics</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=-e1_QhJ1EhQ">
+        <img src="https://img.youtube.com/vi/-e1_QhJ1EhQ/0.jpg" alt="Atlas Gets a Grip | Boston Dynamics" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=-e1_QhJ1EhQ">Atlas Gets a Grip | Boston Dynamics</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=CJhneBJIfOk">
+        <img src="https://img.youtube.com/vi/CJhneBJIfOk/0.jpg" alt="Meet our friend CyberOne" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=CJhneBJIfOk">Meet our friend CyberOne</a></p>
+    </td>
+  </tr>
+</table>
+
 ### [Spot](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
 [![YouTube](https://img.youtube.com/vi/wlkCQXHEgjA/0.jpg)](https://www.youtube.com/watch?v=wlkCQXHEgjA)
@@ -224,7 +258,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/yYUuWWnfRsk/0.jpg)](https://www.youtube.com/watch?v=yYUuWWnfRsk)
 
-## Diligent Robotics
+## <div align="center">Diligent Robotics</div>
 
 |             |                                 |
 | ----------- | ------------------------------- |
@@ -234,7 +268,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/EFQYN55nVmw/0.jpg)](https://www.youtube.com/watch?v=EFQYN55nVmw)
 
-## Engineered Arts
+## <div align="center">Engineered Arts</div>
 
 |                     |                                               |
 | ------------------- | --------------------------------------------- |
@@ -251,7 +285,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/IPukuYb9xWw/0.jpg)](https://www.youtube.com/watch?v=IPukuYb9xWw)
 
-## Figure AI
+## <div align="center">Figure AI</div>
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
@@ -268,11 +302,47 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/b37rQZ4maPo/0.jpg)](https://www.youtube.com/watch?v=b37rQZ4maPo)
 
+<table style="width:100%">
+  <tr>
+    <th style="width:33%"></th>
+    <th style="width:33%"></th>
+    <th style="width:33%"></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=jACJruCzUzY">
+        <img src="https://img.youtube.com/vi/jACJruCzUzY/0.jpg" alt="Figure Status Update - Dynamic Walking" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=jACJruCzUzY">Figure Status Update - Dynamic Walking</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=Q5MKo7Idsok">
+        <img src="https://img.youtube.com/vi/Q5MKo7Idsok/0.jpg" alt="Figure Status Update - AI Trained Coffee Demo" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=Q5MKo7Idsok">Figure Status Update - AI Trained Coffee Demo</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=gEjXcEU3Bbw">
+        <img src="https://img.youtube.com/vi/gEjXcEU3Bbw/0.jpg" alt="Figure Status Update - Real World Task" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=gEjXcEU3Bbw">Figure Status Update - Real World Task</a></p>
+    </td>
+  </tr>
+</table>
+
+<!--
+Figure Status Update - OpenAI Speech-to-Speech Reasoning https://www.youtube.com/watch?v=Sq1QZB5baNw
+
+Figure Status Update - BMW Full Use Case https://www.youtube.com/watch?v=K1TrbI0BaaU
+
+https://www.youtube.com/watch?v=FZbY9sReu1k
+-->
+
 ### [Figure 02](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
 [![YouTube](https://img.youtube.com/vi/0SRVJaOg9Co/0.jpg)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
-## Fourier Intelligence-Robotics
+## <div align="center">Fourier Intelligence-Robotics</div>
 
 |                     |                                                       |
 | ------------------- | ----------------------------------------------------- |
@@ -289,7 +359,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/_MBd_XfXy9M/0.jpg)](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
-## Hanson Robotics
+## <div align="center">Hanson Robotics</div>
 
 |                     |                                                |
 | ------------------- | ---------------------------------------------- |
@@ -304,19 +374,27 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ### Sophia
 
-## [LimX Dynamics](https://www.limxdynamics.com/en)
+## <div align="center">[LimX Dynamics](https://www.limxdynamics.com/en)</div>
 
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
 [![YouTube](https://img.youtube.com/vi/11Iz8x27jS4/0.jpg)](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
-## [Mentee Robotics](https://www.menteebot.com/)
+## <div align="center">[Mentee Robotics](https://www.menteebot.com/)</div>
+
+|                     |                                    |
+| ------------------- | ---------------------------------- |
+| **Name**            | Mentee Robotics                    |
+| **Country**         | Israel                             |
+| **Headquarters**    | Herzliya, Israel                   |
+| **Website**         | https://www.menteebot.com/         |
+| **YouTube Channel** | https://www.youtube.com/@menteebot |
 
 ### [MenteeBot](https://www.youtube.com/watch?v=fzjdXD1pGpI)
 
 [![YouTube](https://img.youtube.com/vi/fzjdXD1pGpI/0.jpg)](https://www.youtube.com/watch?v=fzjdXD1pGpI)
 
-## NEURA Robotics
+## <div align="center">NEURA Robotics</div>
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
@@ -332,7 +410,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/SGR-FTNeMAI/0.jpg)](https://www.youtube.com/watch?v=SGR-FTNeMAI)
 
-## PAL Robotics
+## PAL Robotics<div align="center"></div>
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
@@ -346,7 +424,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/qVzHe8FG984/0.jpg)](https://www.youtube.com/watch?v=qVzHe8FG984)
 
-## [PNDbotics]()
+## <div align="center">PNDbotics</div>
 
 |                     |                                           |
 | ------------------- | ----------------------------------------- |
@@ -356,7 +434,18 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/Nmyymmd7bgE/0.jpg)](https://www.youtube.com/watch?v=Nmyymmd7bgE)
 
-## ROBOT ERA
+## <div align="center">Pudu Robotics</div>
+
+|                     |                                       |
+| ------------------- | ------------------------------------- |
+| **Website**         | https://www.pudurobotics.com/         |
+| **YouTube Channel** | https://www.youtube.com/@PuduRobotics |
+
+### [PUDU D7](https://www.youtube.com/watch?v=CbA9wA9etGA)
+
+[![YouTube](https://img.youtube.com/vi/CbA9wA9etGA/0.jpg)](https://www.youtube.com/watch?v=CbA9wA9etGA)
+
+## <div align="center">ROBOT ERA</div>
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
@@ -376,7 +465,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/nx2YO3twZYs/0.jpg)](https://www.youtube.com/watch?v=nx2YO3twZYs)
 
-## Sanctuary AI
+## <div align="center">Sanctuary AI</div>
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
@@ -392,14 +481,14 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/-HizP4UQvug/0.jpg)](https://www.youtube.com/watch?v=-HizP4UQvug)
 
-## Softbank Robotics
+## <div align="center">Softbank Robotics</div>
 
 |             |                                  |
 | ----------- | -------------------------------- |
 | **Name**    | Softbank Robotics America, Inc.  |
 | **Website** | https://us.softbankrobotics.com/ |
 
-## Tesla
+## <div align="center">Tesla</div>
 
 |                     |                                           |
 | ------------------- | ----------------------------------------- |
@@ -416,7 +505,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/cpraXaw7dyc/0.jpg)](https://www.youtube.com/watch?v=cpraXaw7dyc)
 
-## UBTECH Robotics
+<!--
+Tesla Bot Update https://www.youtube.com/watch?v=XiQkeWOFwmk
+
+Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
+-->
+
+## <div align="center">UBTECH Robotics</div>
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
@@ -436,17 +531,18 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/4ZL3LgdKNbw/0.jpg)](https://www.youtube.com/watch?v=4ZL3LgdKNbw)
 
-## Unitree Robotics
+## <div align="center">Unitree Robotics</div>
 
-|                     |                                          |
-| ------------------- | ---------------------------------------- |
-| **Name**            | Unitree Robotics                         |
-| **Type**            | Commercial                               |
-| **Country**         | China                                    |
-| **Headquarters**    | Hangzhou City, Zhejiang Province, China  |
-| **Founded**         | 2016                                     |
-| **Website**         | https://www.unitree.com/                 |
-| **YouTube Channel** | https://www.youtube.com/@unitreerobotics |
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| **Name**            | Unitree Robotics                               |
+| **Type**            | Commercial                                     |
+| **Country**         | China                                          |
+| **Headquarters**    | Hangzhou City, Zhejiang Province, China        |
+| **Founded**         | 2016                                           |
+| **Website**         | https://www.unitree.com/                       |
+| **YouTube Channel** | https://www.youtube.com/@unitreerobotics       |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Unitree_Robotics |
 
 ### [Unitree G1](https://www.youtube.com/watch?v=GzX1qOIO1bE)
 
@@ -472,11 +568,52 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/-0n_MFLKD3M/0.jpg)](https://www.youtube.com/watch?v=-0n_MFLKD3M)
 
-## Xiaomi
+## <div align="center">Xiaomi</div>
+
+|                     |                                      |
+| ------------------- | ------------------------------------ |
+| **Name**            | Xiaomi Corporation                   |
+| **Type**            | Commercial, Public                   |
+| **Country**         | China                                |
+| **Headquarters**    | Beijing, China                       |
+| **Founded**         | 2010                                 |
+| **Website**         | https://www.mi.com/                  |
+| **YouTube Channel** | https://www.youtube.com/@xiaomi      |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Xiaomi |
 
 ### [CyberOne](https://www.youtube.com/watch?v=I28Q9czUx2Q)
 
 [![YouTube](https://img.youtube.com/vi/I28Q9czUx2Q/0.jpg)](https://www.youtube.com/watch?v=I28Q9czUx2Q)
+
+More YT-Videos:
+
+<table style="width:100%">
+  <tr>
+    <th style="width:33%"></th>
+    <th style="width:33%"></th>
+    <th style="width:33%"></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=I28Q9czUx2Q">
+        <img src="https://img.youtube.com/vi/I28Q9czUx2Q/0.jpg" alt="CyberOne's stage debut with Lei Jun!" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=I28Q9czUx2Q">CyberOne's stage debut with Lei Jun!</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=QfQ04jEbEyQ">
+        <img src="https://img.youtube.com/vi/QfQ04jEbEyQ/0.jpg" alt="Xiaomi CyberOne Drumming" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=QfQ04jEbEyQ">Xiaomi CyberOne Drumming</a></p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=CJhneBJIfOk">
+        <img src="https://img.youtube.com/vi/CJhneBJIfOk/0.jpg" alt="Meet our friend CyberOne" />
+      </a>
+      <p><a href="https://www.youtube.com/watch?v=CJhneBJIfOk">Meet our friend CyberOne</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Related Lists and Sources
 
@@ -485,6 +622,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [List of Commercial Humanoid Robots](https://nathan-peterman.com/List-of-Commercial-Humanoid-Robots-48c44dcf0efc452eab6697b78292f4af)
 - [BotsLikeYou](https://www.botslikeyou.com/comparator-robot)
 - [Awesome Robotics and Artificially Intelligence Agent Companies](https://github.com/balloch/awesome-robotics-ai-companies)
+- [Reddit: r/robotics](https://www.reddit.com/r/robotics/)
+- [IEEE ROBOTS](https://robotsguide.com/)
 
 ### Videos
 
@@ -492,3 +631,11 @@ Note: Your contributions are welcome! If you notice any missing information, err
   [![YouTube](http://i.ytimg.com/vi/v0uKLCZocjs/hqdefault.jpg)](https://www.youtube.com/watch?v=v0uKLCZocjs)
 - NBC News: Inside big tech's A.I. robot race  
   [![YouTube](http://i.ytimg.com/vi/VLkSI_lwarE/hqdefault.jpg)](https://www.youtube.com/watch?v=VLkSI_lwarE)
+- CNET: Unitree G1 vs. Boston Dynamics Atlas: Hypermobility in Humanoid Robots
+  [![YouTube](https://img.youtube.com/vi/AWDQnkV2wh4/0.jpg)](https://www.youtube.com/watch?v=AWDQnkV2wh4)
+- CNET: Atlas vs. Optimus: Boston Dynamics & Tesla's Humanoid Robots
+  [![YouTube](https://img.youtube.com/vi/rTiL9R_Q5PA/0.jpg)](https://www.youtube.com/watch?v=rTiL9R_Q5PA)
+- CNET: Humanoid Robots Head Home: Meet NEO Beta
+  [![YouTube](https://img.youtube.com/vi/BzPz7pg28Zg/0.jpg)](https://www.youtube.com/watch?v=BzPz7pg28Zg)
+- CNET: Meet the $16K Humanoid Robot Leaping Into Production
+  [![YouTube](https://img.youtube.com/vi/y2KF2DnvN9Y/0.jpg)](https://www.youtube.com/watch?v=y2KF2DnvN9Y)
