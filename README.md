@@ -37,7 +37,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Boston Dynamics](#boston-dynamics)
   - [Atlas](#atlas)
   - [HD Atlas](#hd-atlas-last-generation-hydraulic-atlas)
-  - [Spot](#spot) -[Strech](#strech)
+  - [Spot](#spot)
 - [Diligent Robotics]()
   - [Moxi]()
 - [Engineered Arts](#engineered-arts) -[Ameca](#ameca)
@@ -92,15 +92,17 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">1X Technologies</div>
 
-|                     |                                  |
-| ------------------- | -------------------------------- |
-| **Name**            | 1X Technologies                  |
-| **Type**            | Commercial                       |
-| **Country**         | 🇺🇸 United States                 |
-| **Headquarters**    | Sunnyvale, California, USA       |
-| **Founded**         | 2014                             |
-| **Website**         | https://www.1x.tech/             |
-| **YouTube Channel** | https://www.youtube.com/@1X-tech |
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| **Name**            | 1X Technologies                                         |
+| **Company Type**    | For Profit, Private                                     |
+| **Country**         | 🇺🇸 United States, Norway                                |
+| **Headquarters**    | Sunnyvale, California, USA; Moss, Norway                |
+| **Founded**         | 2014                                                    |
+| **Website**         | https://www.1x.tech/                                    |
+| **YouTube Channel** | https://www.youtube.com/@1X-tech                        |
+| **GitHub**          | https://github.com/1x-technologies                      |
+| **Crunchbase**      | https://www.crunchbase.com/organization/halodi-robotics |
 
 ### [EVE](https://www.youtube.com/watch?v=20GHG-R9eFI)
 
@@ -112,29 +114,33 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">AGIBOT</div>
 
-|                     |                         |
-| ------------------- | ----------------------- |
-| **Type**            | Commercial              |
-| **Country**         | 🇨🇳 China                |
-| **YouTube Channel** | -                       |
-| **Website**         | https://www.agibot.com/ |
+|                     |                             |
+| ------------------- | --------------------------- |
+| **Type**            | Commercial, Private company |
+| **Country**         | 🇨🇳 China                    |
+| **Headquarters**    | Shanghai, China             |
+| **Founded**         | 2023                        |
+| **Website**         | https://www.agibot.com/     |
+| **YouTube Channel** | -                           |
+| **Wikipedia**       | -                           |
 
 ### [AGIBOT RAISE-A1](https://www.youtube.com/watch?v=PIYJtZmzs70) (Note: official video not available)
 
 [![YouTube](https://img.youtube.com/vi/PIYJtZmzs70/0.jpg)](https://www.youtube.com/watch?v=PIYJtZmzs70)
 
-## Agility Robotics<div align="center"></div>
+## <div align="center">Agility Robotics</div>
 
-|                     |                                                |
-| ------------------- | ---------------------------------------------- |
-| **Name**            | Agility Robotics, Inc.                         |
-| **Type**            | Commercial, Private                            |
-| **Country**         | 🇺🇸 United States                               |
-| **Headquarters**    | Salem, Oregon, USA                             |
-| **Founded**         | 2015                                           |
-| **Website**         | https://agilityrobotics.com/                   |
-| **YouTube Channel** | https://www.youtube.com/@AgilityRobotics       |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Agility_Robotics |
+|                     |                                                          |
+| ------------------- | -------------------------------------------------------- |
+| **Name**            | Agility Robotics, Inc.                                   |
+| **Type**            | Commercial, Private company                              |
+| **Country**         | 🇺🇸 United States                                         |
+| **Headquarters**    | Albany, Oregon, USA                                      |
+| **Founded**         | 2015                                                     |
+| **Website**         | https://agilityrobotics.com/                             |
+| **YouTube Channel** | https://www.youtube.com/@AgilityRobotics                 |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Agility_Robotics           |
+| **Crunchbase**      | https://www.crunchbase.com/organization/agility-robotics |
 
 ### [Digit](https://www.youtube.com/watch?v=rnFZAB9ogEE)
 
@@ -151,6 +157,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Founded**         | 2012                                   |
 | **Website**         | https://apptronik.com/                 |
 | **YouTube Channel** | https://www.youtube.com/@apptronik8459 |
+| **Wikipedia**       | -                                      |
 
 ### [Apollo](https://www.youtube.com/watch?v=uJOA5IDaL5g)
 
@@ -168,9 +175,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Type**            | Commercial                         |
 | **Country**         | 🇨🇳 China                           |
 | **Headquarters**    | Shenzhen, China                    |
-| **Founded**         | -                                  |
+| **Founded**         | 2022                               |
 | **Website**         | https://astribot.com/index-en.html |
 | **YouTube Channel** | https://www.youtube.com/@Astribot  |
+| **Wikipedia**       | -                                  |
 
 ### [Astribot S1](https://www.youtube.com/watch?v=AePEcHIIk9s)
 
@@ -194,6 +202,14 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### ALEX
 
 ## <div align="center">Booster Robotics</div>
+
+|                     |                                          |
+| ------------------- | ---------------------------------------- |
+| **Name**            | BOOSTER ROBOTICS                         |
+| **Country**         | 🇨🇳 China                                 |
+| **Headquarters**    | Beijing, China                           |
+| **Website**         | https://boosterobotics.com/              |
+| **YouTube Channel** | https://www.youtube.com/@BoosterRobotics |
 
 ### [Booster T1](https://www.youtube.com/watch?v=WXcz-4QBmTY)
 
@@ -254,15 +270,16 @@ More YT-Videos:
 
 [![YouTube](https://img.youtube.com/vi/wlkCQXHEgjA/0.jpg)](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
-### [Strech](https://www.youtube.com/watch?v=yYUuWWnfRsk)
-
-[![YouTube](https://img.youtube.com/vi/yYUuWWnfRsk/0.jpg)](https://www.youtube.com/watch?v=yYUuWWnfRsk)
-
 ## <div align="center">Diligent Robotics</div>
 
-|             |                                 |
-| ----------- | ------------------------------- |
-| **Website** | https://www.diligentrobots.com/ |
+|                     |                                              |
+| ------------------- | -------------------------------------------- |
+| **Name**            | Diligent Robotics Inc.                       |
+| **Country**         | 🇺🇸 United States                             |
+| **Headquarters**    | Austin, Texas, USA                           |
+| **Founded**         | 2017                                         |
+| **Website**         | https://www.diligentrobots.com/              |
+| **YouTube Channel** | https://www.youtube.com/@diligentrobotics674 |
 
 ### [Moxi](https://www.youtube.com/watch?v=EFQYN55nVmw)
 
@@ -376,10 +393,10 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 ## <div align="center">[LimX Dynamics](https://www.limxdynamics.com/en)</div>
 
-|                     |                                                |
-| ------------------- | ---------------------------------------------- |
-| **Country**         | 🇨🇳 China                                       |
-| **Headquarters**    | Shenzhen, China                                |
+|                  |                 |
+| ---------------- | --------------- |
+| **Country**      | 🇨🇳 China        |
+| **Headquarters** | Shenzhen, China |
 
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
@@ -387,13 +404,15 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 ## <div align="center">[Mentee Robotics](https://www.menteebot.com/)</div>
 
-|                     |                                    |
-| ------------------- | ---------------------------------- |
-| **Name**            | Mentee Robotics                    |
-| **Country**         | 🇮🇱 Israel                          |
-| **Headquarters**    | Herzliya, Israel                   |
-| **Website**         | https://www.menteebot.com/         |
-| **YouTube Channel** | https://www.youtube.com/@menteebot |
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| **Name**            | Mentee Robotics                                         |
+| **Country**         | 🇮🇱 Israel                                               |
+| **Headquarters**    | Herzliya, Israel                                        |
+| **Founded**         | 2022                                                    |
+| **Website**         | https://www.menteebot.com/                              |
+| **YouTube Channel** | https://www.youtube.com/@menteebot                      |
+| **Crunchbase**      | https://www.crunchbase.com/organization/mentee-robotics |
 
 ### [MenteeBot](https://www.youtube.com/watch?v=fzjdXD1pGpI)
 
@@ -434,6 +453,9 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 |                     |                                           |
 | ------------------- | ----------------------------------------- |
 | **Country**         | 🇨🇳 China                                  |
+| **Headquarters**    | Beijing, China                            |
+| **Founded**         | 2024                                      |
+| **Website**         | https://www.pndbotics.com/                |
 | **YouTube Channel** | https://www.youtube.com/@PNDbotics/videos |
 
 ### [Adam](https://www.youtube.com/watch?v=Nmyymmd7bgE)
@@ -502,7 +524,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 |                     |                                           |
 | ------------------- | ----------------------------------------- |
 | **Name**            | Tesla, Inc.                               |
-| **Type**            | Commercial, Public                        |
+| **Company Type**    | For Profit, Public                        |
 | **Country**         | 🇺🇸 United States                          |
 | **Headquarters**    | Austin, Texas , USA                       |
 | **Founded**         | 2003                                      |
