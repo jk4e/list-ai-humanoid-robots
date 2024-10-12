@@ -633,6 +633,8 @@ More YT-Videos:
 - [Awesome Robotics and Artificially Intelligence Agent Companies](https://github.com/balloch/awesome-robotics-ai-companies)
 - [Reddit: r/robotics](https://www.reddit.com/r/robotics/)
 - [IEEE ROBOTS](https://robotsguide.com/)
+- [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
+- [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 
 ### Videos
 
