@@ -38,14 +38,22 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Atlas](#atlas)
   - [HD Atlas](#hd-atlas-last-generation-hydraulic-atlas)
   - [Spot](#spot)
-- [Diligent Robotics]()
-  - [Moxi]()
+- [Clone Robotics](#clone-robotics)
+  - [Torso](#torso)
+- [Deep Robotics](#deep-robotics)
+  - [DR01](#dr01)
+- [Diligent Robotics](#diligent-robotics)
+  - [Moxi](#moxi)
+- [Engineai Robot](#engineai-robot)
+  - [SE01](#se01)
 - [Engineered Arts](#engineered-arts) -[Ameca](#ameca)
 - [Figure AI](#figure-ai)
   - [Figure 01](#figure-01)
   - [Figure 02](#figure-02)
 - [Fourier Intelligence-Robotics](#fourier-intelligence-robotics)
   - [Fourier GR-1](#fourier-gr-1)
+- [Galbot Robotics](#galbot-robotics)
+  - [Galbot G1](#galbot-g1)
 - [Hanson Robotics](#hanson-robotics)
   - [Sophia](#sophia)
 - [Kepler]()
@@ -270,6 +278,18 @@ More YT-Videos:
 
 [![YouTube](https://img.youtube.com/vi/wlkCQXHEgjA/0.jpg)](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
+## <div align="center">Clone Robotics</div>
+
+### [Torso](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
+
+[![YouTube](https://img.youtube.com/vi/5mSE6Tkhy4g/0.jpg)](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
+
+## <div align="center">Deep Robotics</div>
+
+### [DR01](https://www.youtube.com/watch?v=lCFyfh3mLOQ)
+
+[![YouTube](https://img.youtube.com/vi/lCFyfh3mLOQ/0.jpg)](https://www.youtube.com/watch?v=lCFyfh3mLOQ)
+
 ## <div align="center">Diligent Robotics</div>
 
 |                     |                                              |
@@ -284,6 +304,16 @@ More YT-Videos:
 ### [Moxi](https://www.youtube.com/watch?v=EFQYN55nVmw)
 
 [![YouTube](https://img.youtube.com/vi/EFQYN55nVmw/0.jpg)](https://www.youtube.com/watch?v=EFQYN55nVmw)
+
+## <div align="center">Engineai Robot</div>
+
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **YouTube Channel** | https://www.youtube.com/@Engineairobot |
+
+### [SE01](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
+
+[![YouTube](https://img.youtube.com/vi/I7Oh-ma4o1A/0.jpg)](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
 
 ## <div align="center">Engineered Arts</div>
 
@@ -375,6 +405,13 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 ### [Fourier GR-1](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
 [![YouTube](https://img.youtube.com/vi/_MBd_XfXy9M/0.jpg)](https://www.youtube.com/watch?v=_MBd_XfXy9M)
+
+## <div align="center">Galbot Robotics</div>
+
+### [Galbot G1](https://www.youtube.com/watch?v=9ML9mOcHSQA)
+
+[![YouTube](https://img.youtube.com/vi/9ML9mOcHSQA/0.jpg)](https://www.youtube.com/watch?v=9ML9mOcHSQA)
+
 
 ## <div align="center">Hanson Robotics</div>
 
