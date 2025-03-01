@@ -18,9 +18,11 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 - [1X Technologies](#1x-technologies)
   - [EVE](#eve)
-  - [NEO](#neo)
+  - [NEO Beta](#neo-beta)
+  - [NEO Gamma](#neo-gamma)
 - [AGIBOT](#agibot)
-  - [AGIBOT RAISE-A1](#agibot-raise-a1-note-official-video-not-available)
+  - [AgiBot RAISE A1](#agibot-raise-a1)
+  - [AgiBot A2](#agibot-a2)
 - [Agility Robotics](#agility-robotics)
   - [Digit](#digit)
 - [Apptronik](#apptronik)
@@ -40,23 +42,32 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Spot](#spot)
 - [Clone Robotics](#clone-robotics)
   - [Torso](#torso)
+  - [Protoclone](#protoclone)
 - [Deep Robotics](#deep-robotics)
   - [DR01](#dr01)
 - [Diligent Robotics](#diligent-robotics)
   - [Moxi](#moxi)
 - [Engineai Robot](#engineai-robot)
   - [SE01](#se01)
+  - [PM01](#pm01)
 - [Engineered Arts](#engineered-arts) -[Ameca](#ameca)
 - [Figure AI](#figure-ai)
   - [Figure 01](#figure-01)
   - [Figure 02](#figure-02)
+  - [Helix](#helix)
+- [Foundation Robotics]()
+  - [Phantom]()
 - [Fourier Intelligence-Robotics](#fourier-intelligence-robotics)
-  - [Fourier GR-1](#fourier-gr-1)
+  - [GR-1](#fourier-gr-1)
+  - [GR-2]()
 - [Galbot Robotics](#galbot-robotics)
   - [Galbot G1](#galbot-g1)
 - [Hanson Robotics](#hanson-robotics)
   - [Sophia](#sophia)
-- [Kepler]()
+- [Humanoid](#humanoid)
+  - [HMND 01](#hmnd-01)
+- [Kepler Robotics](#kepler-robotics)
+  - [Forerunner K2](#forerunner-k2)
 - [LimX Dynamics](#limx-dynamics)
   - [CL-1](#cl-1)
 - [Mentee Robotics](#mentee-robotics)
@@ -69,6 +80,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Adam](#adam)
 - [Pudu Robotics](#pudu-robotics)
   - [PUDU D7](#pudu-d7)
+  - [PUDU D9](#pudu-d9)
 - [ROBOT ERA](#robot-era)
   - [Xhand](#xhand)
   - [XBot-L](#xbot-l)
@@ -80,18 +92,19 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [UBTECH Robotics](#ubtech-robotics)
   - [Walker S](#walker-s)
   - [Walker X](#walker-x)
+  - [Walker S1](#walker-s1)
 - [Unitree Robotics](#unitree-robotics)
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
-- [Xiaomi]()
-  - [CyberOne]()
+- [Xiaomi](#xiaomi)
+  - [CyberOne](#cyberone)
+- [Xpeng](#xpeng)
+  - [Iron](#iron)
 
 #### Research institutes and universities
 
 - [Karlsruhe Institute of Technology]()
 - [IHMC Robotics]()
-- []()
-- []()
 
 #### Related Lists and Sources
 
@@ -116,9 +129,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/20GHG-R9eFI/0.jpg)](https://www.youtube.com/watch?v=20GHG-R9eFI)
 
-### [NEO](https://www.youtube.com/watch?v=bUrLuUxv9gE)
+### [NEO Beta](https://www.youtube.com/watch?v=bUrLuUxv9gE)
 
 [![YouTube](https://img.youtube.com/vi/bUrLuUxv9gE/0.jpg)](https://www.youtube.com/watch?v=bUrLuUxv9gE)
+
+### [NEO Gamma](https://www.youtube.com/watch?v=uVcBa6NXAbk)
+
+[![YouTube](https://img.youtube.com/vi/uVcBa6NXAbk/0.jpg)](https://www.youtube.com/watch?v=uVcBa6NXAbk)
 
 ## <div align="center">AGIBOT</div>
 
@@ -132,9 +149,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **YouTube Channel** | -                           |
 | **Wikipedia**       | -                           |
 
-### [AGIBOT RAISE-A1](https://www.youtube.com/watch?v=PIYJtZmzs70) (Note: official video not available)
+### [AgiBot RAISE A1](https://www.youtube.com/watch?v=PIYJtZmzs70)
 
 [![YouTube](https://img.youtube.com/vi/PIYJtZmzs70/0.jpg)](https://www.youtube.com/watch?v=PIYJtZmzs70)
+
+### [AgiBot A2](https://www.youtube.com/watch?v=DQHGV3hrnL0)
+
+[![YouTube](https://img.youtube.com/vi/DQHGV3hrnL0/0.jpg)](https://www.youtube.com/watch?v=DQHGV3hrnL0)
 
 ## <div align="center">Agility Robotics</div>
 
@@ -244,36 +265,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/-9EM5_VFlt8/0.jpg)](https://www.youtube.com/watch?v=-9EM5_VFlt8)
 
-More YT-Videos:
-
-<table style="width:100%">
-  <tr>
-    <th style="width:33%"></th>
-    <th style="width:33%"></th>
-    <th style="width:33%"></th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=LeeiN9smjjY">
-        <img src="https://img.youtube.com/vi/LeeiN9smjjY/0.jpg" alt="HD Atlas Manipulates | Boston Dynamics" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=LeeiN9smjjY">HD Atlas Manipulates | Boston Dynamics</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=-e1_QhJ1EhQ">
-        <img src="https://img.youtube.com/vi/-e1_QhJ1EhQ/0.jpg" alt="Atlas Gets a Grip | Boston Dynamics" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=-e1_QhJ1EhQ">Atlas Gets a Grip | Boston Dynamics</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=CJhneBJIfOk">
-        <img src="https://img.youtube.com/vi/CJhneBJIfOk/0.jpg" alt="Meet our friend CyberOne" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=CJhneBJIfOk">Meet our friend CyberOne</a></p>
-    </td>
-  </tr>
-</table>
-
 ### [Spot](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
 [![YouTube](https://img.youtube.com/vi/wlkCQXHEgjA/0.jpg)](https://www.youtube.com/watch?v=wlkCQXHEgjA)
@@ -283,6 +274,10 @@ More YT-Videos:
 ### [Torso](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
 
 [![YouTube](https://img.youtube.com/vi/5mSE6Tkhy4g/0.jpg)](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
+
+### [Protoclone](https://www.youtube.com/watch?v=H7dhwFcuUn0)
+
+[![YouTube](https://img.youtube.com/vi/H7dhwFcuUn0/0.jpg)](https://www.youtube.com/watch?v=H7dhwFcuUn0)
 
 ## <div align="center">Deep Robotics</div>
 
@@ -301,9 +296,9 @@ More YT-Videos:
 | **Website**         | https://www.diligentrobots.com/              |
 | **YouTube Channel** | https://www.youtube.com/@diligentrobotics674 |
 
-### [Moxi](https://www.youtube.com/watch?v=EFQYN55nVmw)
+### [Moxi](https://www.youtube.com/watch?v=TAS0LpNR-Gw)
 
-[![YouTube](https://img.youtube.com/vi/EFQYN55nVmw/0.jpg)](https://www.youtube.com/watch?v=EFQYN55nVmw)
+[![YouTube](https://img.youtube.com/vi/TAS0LpNR-Gw/0.jpg)](https://www.youtube.com/watch?v=TAS0LpNR-Gw)
 
 ## <div align="center">Engineai Robot</div>
 
@@ -314,6 +309,10 @@ More YT-Videos:
 ### [SE01](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
 
 [![YouTube](https://img.youtube.com/vi/I7Oh-ma4o1A/0.jpg)](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
+
+### [PM01](https://www.youtube.com/watch?v=j-uMnH_f7cU)
+
+[![YouTube](https://img.youtube.com/vi/j-uMnH_f7cU/0.jpg)](https://www.youtube.com/watch?v=j-uMnH_f7cU)
 
 ## <div align="center">Engineered Arts</div>
 
@@ -349,45 +348,13 @@ More YT-Videos:
 
 [![YouTube](https://img.youtube.com/vi/b37rQZ4maPo/0.jpg)](https://www.youtube.com/watch?v=b37rQZ4maPo)
 
-<table style="width:100%">
-  <tr>
-    <th style="width:33%"></th>
-    <th style="width:33%"></th>
-    <th style="width:33%"></th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=jACJruCzUzY">
-        <img src="https://img.youtube.com/vi/jACJruCzUzY/0.jpg" alt="Figure Status Update - Dynamic Walking" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=jACJruCzUzY">Figure Status Update - Dynamic Walking</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=Q5MKo7Idsok">
-        <img src="https://img.youtube.com/vi/Q5MKo7Idsok/0.jpg" alt="Figure Status Update - AI Trained Coffee Demo" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=Q5MKo7Idsok">Figure Status Update - AI Trained Coffee Demo</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=gEjXcEU3Bbw">
-        <img src="https://img.youtube.com/vi/gEjXcEU3Bbw/0.jpg" alt="Figure Status Update - Real World Task" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=gEjXcEU3Bbw">Figure Status Update - Real World Task</a></p>
-    </td>
-  </tr>
-</table>
-
-<!--
-Figure Status Update - OpenAI Speech-to-Speech Reasoning https://www.youtube.com/watch?v=Sq1QZB5baNw
-
-Figure Status Update - BMW Full Use Case https://www.youtube.com/watch?v=K1TrbI0BaaU
-
-https://www.youtube.com/watch?v=FZbY9sReu1k
--->
-
 ### [Figure 02](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
 [![YouTube](https://img.youtube.com/vi/0SRVJaOg9Co/0.jpg)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
+
+### [Helix](https://www.youtube.com/watch?v=Z3yQHYNXPws)
+
+[![YouTube](https://img.youtube.com/vi/Z3yQHYNXPws/0.jpg)](https://www.youtube.com/watch?v=Z3yQHYNXPws)
 
 ## <div align="center">Fourier Intelligence-Robotics</div>
 
@@ -402,9 +369,13 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 | **YouTube Channel** | https://www.youtube.com/@FourierIntelligence-Robotics |
 | **Wikipedia**       | -                                                     |
 
-### [Fourier GR-1](https://www.youtube.com/watch?v=_MBd_XfXy9M)
+### [GR-1](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
 [![YouTube](https://img.youtube.com/vi/_MBd_XfXy9M/0.jpg)](https://www.youtube.com/watch?v=_MBd_XfXy9M)
+
+### [GR-2](https://www.youtube.com/watch?v=jWTWWuzB6Cg)
+
+[![YouTube](https://img.youtube.com/vi/jWTWWuzB6Cg/0.jpg)](https://www.youtube.com/watch?v=jWTWWuzB6Cg)
 
 ## <div align="center">Galbot Robotics</div>
 
@@ -428,7 +399,20 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 ### Sophia
 
-## <div align="center">[LimX Dynamics](https://www.limxdynamics.com/en)</div>
+## <div align="center">Humanoid</div>
+
+### [HMND 01](https://www.youtube.com/watch?v=x0nTOypt0zA)
+
+[![YouTube](https://img.youtube.com/vi/x0nTOypt0zA/0.jpg)](https://www.youtube.com/watch?v=x0nTOypt0zA)
+
+## <div align="center">Kepler Robotics</div>
+
+### [Forerunner K2](https://www.youtube.com/watch?v=iWC8rSjDywU)
+
+[![YouTube](https://img.youtube.com/vi/iWC8rSjDywU/0.jpg)](https://www.youtube.com/watch?v=iWC8rSjDywU)
+
+
+## <div align="center">LimX Dynamics</div>
 
 |                  |                 |
 | ---------------- | --------------- |
@@ -439,7 +423,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 [![YouTube](https://img.youtube.com/vi/11Iz8x27jS4/0.jpg)](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
-## <div align="center">[Mentee Robotics](https://www.menteebot.com/)</div>
+## <div align="center">Mentee Robotics</div>
 
 |                     |                                                         |
 | ------------------- | ------------------------------------------------------- |
@@ -471,7 +455,7 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 
 [![YouTube](https://img.youtube.com/vi/SGR-FTNeMAI/0.jpg)](https://www.youtube.com/watch?v=SGR-FTNeMAI)
 
-## PAL Robotics<div align="center"></div>
+## <div align="center">PAL Robotics</div>
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
@@ -512,6 +496,10 @@ https://www.youtube.com/watch?v=FZbY9sReu1k
 ### [PUDU D7](https://www.youtube.com/watch?v=CbA9wA9etGA)
 
 [![YouTube](https://img.youtube.com/vi/CbA9wA9etGA/0.jpg)](https://www.youtube.com/watch?v=CbA9wA9etGA)
+
+### [PUDU D9](https://www.youtube.com/watch?v=gd5DdfJX_RM)
+
+[![YouTube](https://img.youtube.com/vi/gd5DdfJX_RM/0.jpg)](https://www.youtube.com/watch?v=gd5DdfJX_RM)
 
 ## <div align="center">ROBOT ERA</div>
 
@@ -599,6 +587,10 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 
 [![YouTube](https://img.youtube.com/vi/4ZL3LgdKNbw/0.jpg)](https://www.youtube.com/watch?v=4ZL3LgdKNbw)
 
+### [Walker S1](https://www.youtube.com/watch?v=UBbk18oZbTc)
+
+[![YouTube](https://img.youtube.com/vi/UBbk18oZbTc/0.jpg)](https://www.youtube.com/watch?v=UBbk18oZbTc)
+
 ## <div align="center">Unitree Robotics</div>
 
 |                     |                                                |
@@ -653,35 +645,12 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 
 [![YouTube](https://img.youtube.com/vi/I28Q9czUx2Q/0.jpg)](https://www.youtube.com/watch?v=I28Q9czUx2Q)
 
-More YT-Videos:
+## <div align="center">Xpeng</div>
 
-<table style="width:100%">
-  <tr>
-    <th style="width:33%"></th>
-    <th style="width:33%"></th>
-    <th style="width:33%"></th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=I28Q9czUx2Q">
-        <img src="https://img.youtube.com/vi/I28Q9czUx2Q/0.jpg" alt="CyberOne's stage debut with Lei Jun!" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=I28Q9czUx2Q">CyberOne's stage debut with Lei Jun!</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=QfQ04jEbEyQ">
-        <img src="https://img.youtube.com/vi/QfQ04jEbEyQ/0.jpg" alt="Xiaomi CyberOne Drumming" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=QfQ04jEbEyQ">Xiaomi CyberOne Drumming</a></p>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=CJhneBJIfOk">
-        <img src="https://img.youtube.com/vi/CJhneBJIfOk/0.jpg" alt="Meet our friend CyberOne" />
-      </a>
-      <p><a href="https://www.youtube.com/watch?v=CJhneBJIfOk">Meet our friend CyberOne</a></p>
-    </td>
-  </tr>
-</table>
+### [Iron](https://www.youtube.com/watch?v=4AOpIeNjmdc)
+
+[![YouTube](https://img.youtube.com/vi/4AOpIeNjmdc/0.jpg)](https://www.youtube.com/watch?v=4AOpIeNjmdc)
+
 
 ## Related Lists and Sources
 
