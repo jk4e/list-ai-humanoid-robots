@@ -1,12 +1,12 @@
-# <div align="center">🤖 Awesome List of AGI, AI and Humanoid Robots</div>
+# <div align="center">🤖 Awesome List of AI Humanoid Robots</div>
 
 ![ai-humanoid-robots](ai-robot-banner.svg)
 
-A curated list of top AI and humanoid robots, featuring video demonstrations of their capabilities. This list showcases some of the most advanced and interesting AI and humanoid robots currently in development. Each entry includes:
+A curated list of top AI humanoid robots, featuring video demonstrations of their capabilities. This list showcases some of the most advanced and interesting AI humanoid robots currently in development. Each entry includes:
 
 - Basic information about the company
 - Links to their official website and YouTube channel
-- Specific robot models with links to demonstration videos
+- Specific robot models with links to demonstration videos on YouTube
 
 The goal is to provide an up-to-date overview of the state of the art in robotics and AI.
 
@@ -40,6 +40,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Atlas](#atlas)
   - [HD Atlas](#hd-atlas-last-generation-hydraulic-atlas)
   - [Spot](#spot)
+- [CASBOT](#casbot)
+  - [CASBOT 01](#casbot-01)
 - [Clone Robotics](#clone-robotics)
   - [Torso](#torso)
   - [Protoclone](#protoclone)
@@ -58,12 +60,14 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Foundation Robotics]()
   - [Phantom]()
 - [Fourier Intelligence-Robotics](#fourier-intelligence-robotics)
-  - [GR-1](#fourier-gr-1)
-  - [GR-2]()
+  - [GR-1](#gr-1)
+  - [GR-2](#gr-2)
 - [Galbot Robotics](#galbot-robotics)
   - [Galbot G1](#galbot-g1)
 - [Hanson Robotics](#hanson-robotics)
   - [Sophia](#sophia)
+- [Hexagon](#hexagon)
+  - [AEON](#aeon)
 - [Humanoid](#humanoid)
   - [HMND 01](#hmnd-01)
 - [Kepler Robotics](#kepler-robotics)
@@ -78,12 +82,16 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [TALOS](#talos)
 - [PNDbotics](#pndbotics)
   - [Adam](#adam)
+- [Pollen Robotics](#pollen-robotics)
+  - [Reachy 2](#reachy-2)
 - [Pudu Robotics](#pudu-robotics)
   - [PUDU D7](#pudu-d7)
   - [PUDU D9](#pudu-d9)
 - [ROBOT ERA](#robot-era)
   - [Xhand](#xhand)
   - [XBot-L](#xbot-l)
+  - [STAR1](#star1)
+  - [Q5](#q5)
 - [Sanctuary AI](#sanctuary-ai)
   - [Phoenix Gen 7](#phoenix-gen-7)
 - [Softbank Robotics](#softbank-robotics)
@@ -93,6 +101,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Walker S](#walker-s)
   - [Walker X](#walker-x)
   - [Walker S1](#walker-s1)
+  - [Walker C](#walker-c)
 - [Unitree Robotics](#unitree-robotics)
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
@@ -269,6 +278,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/wlkCQXHEgjA/0.jpg)](https://www.youtube.com/watch?v=wlkCQXHEgjA)
 
+## <div align="center">CASBOT</div>
+
+### [CASBOT 01](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
+
+[![YouTube](https://img.youtube.com/vi/GZsgJ-wg6SI/0.jpg)](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
+
 ## <div align="center">Clone Robotics</div>
 
 ### [Torso](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
@@ -399,6 +414,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ### Sophia
 
+## <div align="center">Hexagon</div>
+
+### [AEON](https://www.youtube.com/watch?v=ytPGe63TtOg)
+
+[![YouTube](https://img.youtube.com/vi/ytPGe63TtOg/0.jpg)](https://www.youtube.com/watch?v=ytPGe63TtOg)
+
 ## <div align="center">Humanoid</div>
 
 ### [HMND 01](https://www.youtube.com/watch?v=x0nTOypt0zA)
@@ -483,6 +504,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/Nmyymmd7bgE/0.jpg)](https://www.youtube.com/watch?v=Nmyymmd7bgE)
 
+## <div align="center">Pollen Robotics</div>
+
+### [Reachy 2](https://www.youtube.com/watch?v=T3RdwDkZA9c)
+
+[![YouTube](https://img.youtube.com/vi/T3RdwDkZA9c/0.jpg)](https://www.youtube.com/watch?v=T3RdwDkZA9c)
+
+
 ## <div align="center">Pudu Robotics</div>
 
 |                     |                                       |
@@ -520,6 +548,14 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [XBot-L](https://www.youtube.com/watch?v=nx2YO3twZYs)
 
 [![YouTube](https://img.youtube.com/vi/nx2YO3twZYs/0.jpg)](https://www.youtube.com/watch?v=nx2YO3twZYs)
+
+### [STAR1](https://www.youtube.com/watch?v=ergiT1fglCk)
+
+[![YouTube](https://img.youtube.com/vi/ergiT1fglCk/0.jpg)](https://www.youtube.com/watch?v=ergiT1fglCk)
+
+### [Q5](https://www.youtube.com/watch?v=WgR7IIzzfR0)
+
+[![YouTube](https://img.youtube.com/vi/WgR7IIzzfR0/0.jpg)](https://www.youtube.com/watch?v=WgR7IIzzfR0)
 
 ## <div align="center">Sanctuary AI</div>
 
@@ -591,6 +627,11 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 
 [![YouTube](https://img.youtube.com/vi/UBbk18oZbTc/0.jpg)](https://www.youtube.com/watch?v=UBbk18oZbTc)
 
+### [Walker C](https://www.youtube.com/watch?v=ZyUDaRwDtuc)
+
+[![YouTube](https://img.youtube.com/vi/ZyUDaRwDtuc/0.jpg)](https://www.youtube.com/watch?v=ZyUDaRwDtuc)
+
+
 ## <div align="center">Unitree Robotics</div>
 
 |                     |                                                |
@@ -654,7 +695,7 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 
 ## Related Lists and Sources
 
-### Lists
+### More lists and resources
 
 - [List of Commercial Humanoid Robots](https://nathan-peterman.com/List-of-Commercial-Humanoid-Robots-48c44dcf0efc452eab6697b78292f4af)
 - [BotsLikeYou](https://www.botslikeyou.com/comparator-robot)
