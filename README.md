@@ -39,7 +39,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Boston Dynamics](#boston-dynamics)
   - [Atlas](#atlas)
   - [HD Atlas](#hd-atlas-last-generation-hydraulic-atlas)
-  - [Spot](#spot)
 - [CASBOT](#casbot)
   - [CASBOT 01](#casbot-01)
 - [Clone Robotics](#clone-robotics)
@@ -74,6 +73,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Forerunner K2](#forerunner-k2)
 - [LimX Dynamics](#limx-dynamics)
   - [CL-1](#cl-1)
+  - [Oli](#oli)
 - [Mentee Robotics](#mentee-robotics)
   - [MenteeBot](#menteebot)
 - [NEURA Robotics](#neura-robotics)
@@ -87,11 +87,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Pudu Robotics](#pudu-robotics)
   - [PUDU D7](#pudu-d7)
   - [PUDU D9](#pudu-d9)
-- [ROBOT ERA](#robot-era)
+- [ROBOTERA](#robotera)
   - [Xhand](#xhand)
   - [XBot-L](#xbot-l)
   - [STAR1](#star1)
   - [Q5](#q5)
+  - [L7](#l7)
 - [Sanctuary AI](#sanctuary-ai)
   - [Phoenix Gen 7](#phoenix-gen-7)
 - [Softbank Robotics](#softbank-robotics)
@@ -102,6 +103,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Walker X](#walker-x)
   - [Walker S1](#walker-s1)
   - [Walker C](#walker-c)
+  - [Walker S2](#walker-s2)
 - [Unitree Robotics](#unitree-robotics)
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
@@ -274,11 +276,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/-9EM5_VFlt8/0.jpg)](https://www.youtube.com/watch?v=-9EM5_VFlt8)
 
-### [Spot](https://www.youtube.com/watch?v=wlkCQXHEgjA)
-
-[![YouTube](https://img.youtube.com/vi/wlkCQXHEgjA/0.jpg)](https://www.youtube.com/watch?v=wlkCQXHEgjA)
-
 ## <div align="center">CASBOT</div>
+
+|                     |                                           |
+| ------------------- | ----------------------------------------- |
+| **Country**         | 🇨🇳 China                                              |
+| **Website**         | https://www.casbot.tech/               |
 
 ### [CASBOT 01](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
 
@@ -422,11 +425,19 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Humanoid</div>
 
+|                  |                 |
+| ---------------- | --------------- |
+| **Country**      | 🇬🇧 United Kingdom        |
+
 ### [HMND 01](https://www.youtube.com/watch?v=x0nTOypt0zA)
 
 [![YouTube](https://img.youtube.com/vi/x0nTOypt0zA/0.jpg)](https://www.youtube.com/watch?v=x0nTOypt0zA)
 
 ## <div align="center">Kepler Robotics</div>
+
+|                  |                 |
+| ---------------- | --------------- |
+| **Country**      | 🇨🇳 China        |
 
 ### [Forerunner K2](https://www.youtube.com/watch?v=iWC8rSjDywU)
 
@@ -439,10 +450,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ---------------- | --------------- |
 | **Country**      | 🇨🇳 China        |
 | **Headquarters** | Shenzhen, China |
+| **YouTube Channel** | https://www.youtube.com/@LimXDynamics |
 
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
 [![YouTube](https://img.youtube.com/vi/11Iz8x27jS4/0.jpg)](https://www.youtube.com/watch?v=11Iz8x27jS4)
+
+### [Oli](https://www.youtube.com/watch?v=Ms5Mn2zHp4E)
+
+[![YouTube](https://img.youtube.com/vi/Ms5Mn2zHp4E/0.jpg)](https://www.youtube.com/watch?v=Ms5Mn2zHp4E)
 
 ## <div align="center">Mentee Robotics</div>
 
@@ -529,7 +545,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/gd5DdfJX_RM/0.jpg)](https://www.youtube.com/watch?v=gd5DdfJX_RM)
 
-## <div align="center">ROBOT ERA</div>
+## <div align="center">ROBOTERA</div>
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
@@ -556,6 +572,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [Q5](https://www.youtube.com/watch?v=WgR7IIzzfR0)
 
 [![YouTube](https://img.youtube.com/vi/WgR7IIzzfR0/0.jpg)](https://www.youtube.com/watch?v=WgR7IIzzfR0)
+
+### [L7](https://www.youtube.com/watch?v=muu3Bqo9RkI)
+
+[![YouTube](https://img.youtube.com/vi/muu3Bqo9RkI/0.jpg)](https://www.youtube.com/watch?v=muu3Bqo9RkI)
 
 ## <div align="center">Sanctuary AI</div>
 
@@ -631,6 +651,10 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 
 [![YouTube](https://img.youtube.com/vi/ZyUDaRwDtuc/0.jpg)](https://www.youtube.com/watch?v=ZyUDaRwDtuc)
 
+### [Walker S2](https://www.youtube.com/watch?v=TNryO2uasws)
+
+[![YouTube](https://img.youtube.com/vi/TNryO2uasws/0.jpg)](https://www.youtube.com/watch?v=TNryO2uasws)
+
 
 ## <div align="center">Unitree Robotics</div>
 
@@ -653,22 +677,6 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 
 [![YouTube](https://img.youtube.com/vi/83ShvgtyFAg/0.jpg)](https://www.youtube.com/watch?v=83ShvgtyFAg)
 
-### [Unitree Go2](https://www.youtube.com/watch?v=6zPvT0ig1VM)
-
-[![YouTube](https://img.youtube.com/vi/6zPvT0ig1VM/0.jpg)](https://www.youtube.com/watch?v=6zPvT0ig1VM)
-
-### [Unitree Go2 New Upgrade](https://www.youtube.com/watch?v=iaBDDpuJglY)
-
-[![YouTube](https://img.youtube.com/vi/iaBDDpuJglY/0.jpg)](https://www.youtube.com/watch?v=iaBDDpuJglY)
-
-### [Unitree B1](https://www.youtube.com/watch?v=wSOlpth8FaE)
-
-[![YouTube](https://img.youtube.com/vi/wSOlpth8FaE/0.jpg)](https://www.youtube.com/watch?v=wSOlpth8FaE)
-
-### [Unitree B2](https://www.youtube.com/watch?v=-0n_MFLKD3M)
-
-[![YouTube](https://img.youtube.com/vi/-0n_MFLKD3M/0.jpg)](https://www.youtube.com/watch?v=-0n_MFLKD3M)
-
 ## <div align="center">Xiaomi</div>
 
 |                     |                                      |
@@ -687,6 +695,10 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 [![YouTube](https://img.youtube.com/vi/I28Q9czUx2Q/0.jpg)](https://www.youtube.com/watch?v=I28Q9czUx2Q)
 
 ## <div align="center">Xpeng</div>
+
+|                  |                 |
+| ---------------- | --------------- |
+| **Country**      | 🇨🇳 China        |
 
 ### [Iron](https://www.youtube.com/watch?v=4AOpIeNjmdc)
 
