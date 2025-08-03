@@ -2,13 +2,13 @@
 
 ![ai-humanoid-robots](ai-robot-banner.svg)
 
-A curated list of top AI humanoid robots, featuring video demonstrations of their capabilities. This list showcases some of the most advanced and interesting AI humanoid robots currently in development. Each entry includes:
+A curated list of top AI humanoid robots, featuring video demonstrations of their capabilities. This list showcases the most advanced AI humanoid robots. Each entry includes:
 
-- Basic information about the company
+- Information about the company
 - Links to their official website and YouTube channel
 - Specific robot models with links to demonstration videos on YouTube
 
-The goal is to provide an up-to-date overview of the state of the art in robotics and AI.
+The goal is to provide an up-to-date overview of the state of the art in humanoid robotics.
 
 Note: Your contributions are welcome! If you notice any missing information, errors, or typos, please open an issue or submit a pull request. Thank you!
 
@@ -20,7 +20,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [EVE](#eve)
   - [NEO Beta](#neo-beta)
   - [NEO Gamma](#neo-gamma)
-- [AGIBOT](#agibot)
+- [AgiBot](#agibot)
   - [AgiBot RAISE A1](#agibot-raise-a1)
   - [AgiBot A2](#agibot-a2)
 - [Agility Robotics](#agility-robotics)
@@ -48,7 +48,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [DR01](#dr01)
 - [Diligent Robotics](#diligent-robotics)
   - [Moxi](#moxi)
-- [Engineai Robot](#engineai-robot)
+- [EngineAI](#engineai)
   - [SE01](#se01)
   - [PM01](#pm01)
 - [Engineered Arts](#engineered-arts) -[Ameca](#ameca)
@@ -58,7 +58,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Helix](#helix)
 - [Foundation Robotics]()
   - [Phantom]()
-- [Fourier Intelligence-Robotics](#fourier-intelligence-robotics)
+- [Fourier](#fourier)
   - [GR-1](#gr-1)
   - [GR-2](#gr-2)
 - [Galbot Robotics](#galbot-robotics)
@@ -112,11 +112,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Xpeng](#xpeng)
   - [Iron](#iron)
 
-#### Research institutes and universities
-
-- [Karlsruhe Institute of Technology]()
-- [IHMC Robotics]()
-
 #### Related Lists and Sources
 
 - [Lists](#lists)
@@ -148,7 +143,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/uVcBa6NXAbk/0.jpg)](https://www.youtube.com/watch?v=uVcBa6NXAbk)
 
-## <div align="center">AGIBOT</div>
+## <div align="center">AgiBot</div>
 
 |                     |                             |
 | ------------------- | --------------------------- |
@@ -157,8 +152,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Headquarters**    | Shanghai, China             |
 | **Founded**         | 2023                        |
 | **Website**         | https://www.agibot.com/     |
-| **YouTube Channel** | -                           |
-| **Wikipedia**       | -                           |
+| **YouTube Channel** | https://www.youtube.com/@About-AgiBot  |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/AgiBot   |
 
 ### [AgiBot RAISE A1](https://www.youtube.com/watch?v=PIYJtZmzs70)
 
@@ -278,16 +273,24 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">CASBOT</div>
 
-|                     |                                           |
-| ------------------- | ----------------------------------------- |
-| **Country**         | 🇨🇳 China                                              |
-| **Website**         | https://www.casbot.tech/               |
+|                     |                                                        |
+| ------------------- | ------------------------------------------------------ |
+| **Country**         | 🇨🇳 China                                               |
+| **Founded**         | 2023                                                   |
+| **Website**         | https://www.casbot.tech/                               |
+| **Crunchbase**      | https://www.crunchbase.com/organization/lingbao-casbot |
 
 ### [CASBOT 01](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
 
 [![YouTube](https://img.youtube.com/vi/GZsgJ-wg6SI/0.jpg)](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
 
 ## <div align="center">Clone Robotics</div>
+
+|                     |                                                          |
+| ------------------- | -------------------------------------------------------- |
+| **Country**         | 🇵🇱 Poland                                                |
+| **Website**         | https://clonerobotics.com/                               |
+| **YouTube Channel** | https://www.youtube.com/channel/UCd0xLOw6No5IAsq3Y2-b0eA |
 
 ### [Torso](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
 
@@ -298,6 +301,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 [![YouTube](https://img.youtube.com/vi/H7dhwFcuUn0/0.jpg)](https://www.youtube.com/watch?v=H7dhwFcuUn0)
 
 ## <div align="center">Deep Robotics</div>
+
+|                     |                                                        |
+| ------------------- | ------------------------------------------------------ |
+| **Country**         | 🇨🇳 China                                               |
+| **Founded**         | 2017                                                   |
+| **Website**         | https://www.deeprobotics.cn/                           |
 
 ### [DR01](https://www.youtube.com/watch?v=lCFyfh3mLOQ)
 
@@ -318,11 +327,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/TAS0LpNR-Gw/0.jpg)](https://www.youtube.com/watch?v=TAS0LpNR-Gw)
 
-## <div align="center">Engineai Robot</div>
+## <div align="center">EngineAI</div>
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
+| **Country**         | 🇨🇳 China                               |
+| **Website**         | https://www.engineai.com.cn/                          |
 | **YouTube Channel** | https://www.youtube.com/@Engineairobot |
+
+
 
 ### [SE01](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
 
@@ -337,7 +350,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                               |
 | ------------------- | --------------------------------------------- |
 | **Name**            | Engineered Arts Ltd                           |
-| **Type**            | Commercial                                    |
 | **Country**         | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England                                    |
 | **Headquarters**    | Falmouth, Cornwall, England                   |
 | **Founded**         | 2004                                          |
@@ -354,7 +366,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | **Name**            | Figure AI, Inc.                         |
-| **Type**            | Commercial                              |
 | **Country**         | 🇺🇸 United States                        |
 | **Headquarters**    | Sunnyvale, California, USA              |
 | **Founded**         | 2022                                    |
@@ -374,18 +385,16 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/Z3yQHYNXPws/0.jpg)](https://www.youtube.com/watch?v=Z3yQHYNXPws)
 
-## <div align="center">Fourier Intelligence-Robotics</div>
+## <div align="center">Fourier</div>
 
 |                     |                                                       |
 | ------------------- | ----------------------------------------------------- |
-| **Name**            | Fourier Intelligence                                  |
-| **Type**            | Commercial                                            |
 | **Country**         | 🇨🇳 China                                              |
 | **Headquarters**    | Shanghai, China                                       |
 | **Founded**         | 2015                                                  |
 | **Website**         | https://fourierintelligence.com/                      |
 | **YouTube Channel** | https://www.youtube.com/@FourierIntelligence-Robotics |
-| **Wikipedia**       | -                                                     |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Fourier_(company)                                                     |
 
 ### [GR-1](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
@@ -397,6 +406,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Galbot Robotics</div>
 
+|                     |                                                       |
+| ------------------- | ----------------------------------------------------- |
+| **Country**         | 🇨🇳 China                                              |
+
 ### [Galbot G1](https://www.youtube.com/watch?v=9ML9mOcHSQA)
 
 [![YouTube](https://img.youtube.com/vi/9ML9mOcHSQA/0.jpg)](https://www.youtube.com/watch?v=9ML9mOcHSQA)
@@ -407,7 +420,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                                |
 | ------------------- | ---------------------------------------------- |
 | **Name**            | Hanson Robotics Limited                        |
-| **Type**            | Commercial, Private                            |
 | **Country**         | 🇭🇰 Hong Kong                                   |
 | **Headquarters**    | Science Park, Hong Kong                        |
 | **Founded**         | 2007                                           |
@@ -438,6 +450,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                  |                 |
 | ---------------- | --------------- |
 | **Country**      | 🇨🇳 China        |
+| **Website**         | https://www.gotokepler.com/home                             |
+| **YouTube Channel** | https://www.youtube.com/@KeplerRobot |
 
 ### [Forerunner K2](https://www.youtube.com/watch?v=iWC8rSjDywU)
 
@@ -446,10 +460,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">LimX Dynamics</div>
 
-|                  |                 |
-| ---------------- | --------------- |
-| **Country**      | 🇨🇳 China        |
-| **Headquarters** | Shenzhen, China |
+|                  |                                          |
+| ---------------- | ---------------------------------------- |
+| **Country**      | 🇨🇳 China                                 |
+| **Headquarters** | Shenzhen, China                          |
 | **YouTube Channel** | https://www.youtube.com/@LimXDynamics |
 
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
@@ -481,7 +495,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                        |
 | ------------------- | -------------------------------------- |
 | **Name**            | NEURA Robotics GmbH                    |
-| **Type**            | Commercial                             |
 | **Country**         | 🇩🇪 Germany                             |
 | **Headquarters**    | Metzingen, Germany                     |
 | **Founded**         | 2019                                   |
@@ -531,10 +544,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                       |
 | ------------------- | ------------------------------------- |
-| **Website**         | https://www.pudurobotics.com/         |
 | **Country**         | 🇨🇳 China                              |
 | **Headquarters**    | Shenzhen, China                       |
 | **Founded**         | 2016                                  |
+| **Website**         | https://www.pudurobotics.com/         |
 | **YouTube Channel** | https://www.youtube.com/@PuduRobotics |
 
 ### [PUDU D7](https://www.youtube.com/watch?v=CbA9wA9etGA)
@@ -549,8 +562,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
-| **Name**            | -                                       |
-| **Type**            | Commercial                              |
 | **Country**         | 🇨🇳 China                                |
 | **Headquarters**    | China                                   |
 | **Founded**         | 2023                                    |
@@ -582,12 +593,12 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | **Name**            | Sanctuary Cognitive Systems Corporation |
-| **Type**            | Commercial, Private                     |
 | **Country**         | 🇨🇦 Canada                               |
 | **Headquarters**    | Vancouver, British Columbia, Canada     |
 | **Founded**         | 2018                                    |
 | **Website**         | https://sanctuary.ai/                   |
 | **YouTube Channel** | https://www.youtube.com/@sanctuaryai    |
+| **Crunchbase**      | https://www.crunchbase.com/organization/sanctuary-ai |
 
 ### [Phoenix Gen 7](https://www.youtube.com/watch?v=-HizP4UQvug)
 
@@ -605,7 +616,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                           |
 | ------------------- | ----------------------------------------- |
 | **Name**            | Tesla, Inc.                               |
-| **Company Type**    | For Profit, Public                        |
 | **Country**         | 🇺🇸 United States                          |
 | **Headquarters**    | Austin, Texas , USA                       |
 | **Founded**         | 2003                                      |
@@ -628,12 +638,12 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | **Name**            | UBTECH Robotics                         |
-| **Type**            | Commercial, Public                      |
 | **Country**         | 🇨🇳 China                                |
 | **Headquarters**    | Shenzhen, China                         |
 | **Founded**         | 2012                                    |
 | **Website**         | https://www.ubtrobot.com/               |
 | **YouTube Channel** | https://www.youtube.com/@ubtechrobotics |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/UBtech_Robotics |
 
 ### [Walker S](https://www.youtube.com/watch?v=8MRDF2pkIRs&t=0s)
 
@@ -661,7 +671,6 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 |                     |                                                |
 | ------------------- | ---------------------------------------------- |
 | **Name**            | Unitree Robotics                               |
-| **Type**            | Commercial                                     |
 | **Country**         | 🇨🇳 China                                       |
 | **Headquarters**    | Hangzhou City, Zhejiang Province, China        |
 | **Founded**         | 2016                                           |
@@ -682,7 +691,6 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 |                     |                                      |
 | ------------------- | ------------------------------------ |
 | **Name**            | Xiaomi Corporation                   |
-| **Type**            | Commercial, Public                   |
 | **Country**         | 🇨🇳 China                             |
 | **Headquarters**    | Beijing, China                       |
 | **Founded**         | 2010                                 |
