@@ -124,7 +124,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                                         |
 | ------------------- | ------------------------------------------------------- |
 | **Name**            | 1X Technologies                                         |
-| **Company Type**    | For Profit, Private                                     |
 | **Country**         | 🇺🇸 United States, Norway                                |
 | **Headquarters**    | Sunnyvale, California, USA; Moss, Norway                |
 | **Founded**         | 2014                                                    |
@@ -147,13 +146,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">AgiBot</div>
 
-|                     |                             |
-| ------------------- | --------------------------- |
-| **Type**            | Commercial, Private company |
-| **Country**         | 🇨🇳 China                    |
-| **Headquarters**    | Shanghai, China             |
-| **Founded**         | 2023                        |
-| **Website**         | https://www.agibot.com/     |
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **Name**            | AgiBot (also known as Zhiyuan Robotics)|
+| **Country**         | 🇨🇳 China                               |
+| **Headquarters**    | Shanghai, China                        |
+| **Founded**         | 2023                                   |
+| **Website**         | https://www.agibot.com/                |
 | **YouTube Channel** | https://www.youtube.com/@About-AgiBot  |
 | **Wikipedia**       | https://en.wikipedia.org/wiki/AgiBot   |
 
@@ -170,7 +169,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                                          |
 | ------------------- | -------------------------------------------------------- |
 | **Name**            | Agility Robotics, Inc.                                   |
-| **Type**            | Commercial, Private company                              |
 | **Country**         | 🇺🇸 United States                                         |
 | **Headquarters**    | Albany, Oregon, USA                                      |
 | **Founded**         | 2015                                                     |
@@ -188,7 +186,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                        |
 | ------------------- | -------------------------------------- |
 | **Name**            | Apptronik, Inc.                        |
-| **Type**            | Commercial                             |
 | **Country**         | 🇺🇸 United States                       |
 | **Headquarters**    | Austin, Texas, USA                     |
 | **Founded**         | 2012                                   |
@@ -209,7 +206,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                    |
 | ------------------- | ---------------------------------- |
 | **Name**            | Astribot Inc.                      |
-| **Type**            | Commercial                         |
 | **Country**         | 🇨🇳 China                           |
 | **Headquarters**    | Shenzhen, China                    |
 | **Founded**         | 2022                               |
@@ -242,9 +238,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                          |
 | ------------------- | ---------------------------------------- |
-| **Name**            | BOOSTER ROBOTICS                         |
+| **Name**            | Booster Robotics Technology Co., Ltd.    |
 | **Country**         | 🇨🇳 China                                 |
 | **Headquarters**    | Beijing, China                           |
+| **Founded**         | 2023                                     |
 | **Website**         | https://boosterobotics.com/              |
 | **YouTube Channel** | https://www.youtube.com/@BoosterRobotics |
 
@@ -257,7 +254,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                               |
 | ------------------- | --------------------------------------------- |
 | **Name**            | Boston Dynamics, Inc.                         |
-| **Type**            | Commercial, Subsidiary                        |
 | **Country**         | 🇺🇸 United States                              |
 | **Headquarters**    | Waltham, Massachusetts, USA                   |
 | **Founded**         | 1992                                          |
@@ -277,7 +273,9 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                                        |
 | ------------------- | ------------------------------------------------------ |
+| **Name**            | Lingbao CASBOT                                         |
 | **Country**         | 🇨🇳 China                                               |
+| **Headquarters**    | Beijing, China                                         |
 | **Founded**         | 2023                                                   |
 | **Website**         | https://www.casbot.tech/                               |
 | **Crunchbase**      | https://www.crunchbase.com/organization/lingbao-casbot |
@@ -286,13 +284,17 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/GZsgJ-wg6SI/0.jpg)](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
 
+### [CASBOT 02]()
+
 ## <div align="center">Clone Robotics</div>
 
 |                     |                                                          |
 | ------------------- | -------------------------------------------------------- |
 | **Country**         | 🇵🇱 Poland                                                |
+| **Founded**         | 2021                                                     |
 | **Website**         | https://clonerobotics.com/                               |
 | **YouTube Channel** | https://www.youtube.com/channel/UCd0xLOw6No5IAsq3Y2-b0eA |
+| **Crunchbase**      | https://www.crunchbase.com/organization/clone            |
 
 ### [Torso](https://www.youtube.com/watch?v=5mSE6Tkhy4g)
 
@@ -304,11 +306,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Deep Robotics</div>
 
-|                     |                                                        |
-| ------------------- | ------------------------------------------------------ |
-| **Country**         | 🇨🇳 China                                               |
-| **Founded**         | 2017                                                   |
-| **Website**         | https://www.deeprobotics.cn/                           |
+|                     |                                                          |
+| ------------------- | -------------------------------------------------------- |
+| **Country**         | 🇨🇳 China                                                 |
+| **Headquarters**    | Hangzhou, Zhejiang, China                                |
+| **Founded**         | 2017                                                     |
+| **Website**         | https://www.deeprobotics.cn/                             |
+| **YouTube Channel** | https://www.youtube.com/channel/UCj73fOsxOlugnBPJOoM9rHw |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Deep_Robotics              |
+| **GitHub**          | https://github.com/DeepRoboticsLab                       |
 
 ### [DR01](https://www.youtube.com/watch?v=lCFyfh3mLOQ)
 
@@ -316,14 +322,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Diligent Robotics</div>
 
-|                     |                                              |
-| ------------------- | -------------------------------------------- |
-| **Name**            | Diligent Robotics Inc.                       |
-| **Country**         | 🇺🇸 United States                             |
-| **Headquarters**    | Austin, Texas, USA                           |
-| **Founded**         | 2017                                         |
-| **Website**         | https://www.diligentrobots.com/              |
-| **YouTube Channel** | https://www.youtube.com/@diligentrobotics674 |
+|                     |                                                           |
+| ------------------- | --------------------------------------------------------- |
+| **Name**            | Diligent Robotics Inc.                                    |
+| **Country**         | 🇺🇸 United States                                          |
+| **Headquarters**    | Austin, Texas, USA                                        |
+| **Founded**         | 2017                                                      |
+| **Website**         | https://www.diligentrobots.com/                           |
+| **YouTube Channel** | https://www.youtube.com/@diligentrobotics674              |
+| **Crunchbase**      | https://www.crunchbase.com/organization/diligent-robotics |
 
 ### [Moxi](https://www.youtube.com/watch?v=TAS0LpNR-Gw)
 
@@ -331,13 +338,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">EngineAI</div>
 
-|                     |                                        |
-| ------------------- | -------------------------------------- |
-| **Country**         | 🇨🇳 China                               |
-| **Website**         | https://www.engineai.com.cn/                          |
-| **YouTube Channel** | https://www.youtube.com/@Engineairobot |
-
-
+|                     |                                         |
+| ------------------- | --------------------------------------- |
+| **Country**         | 🇨🇳 China                                |
+| **Founded**         | 2023                                    |
+| **Website**         | https://www.engineai.com.cn/            |
+| **YouTube Channel** | https://www.youtube.com/@Engineairobot  |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Engine_AI |
 
 ### [SE01](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
 
@@ -396,7 +403,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Founded**         | 2015                                                  |
 | **Website**         | https://fourierintelligence.com/                      |
 | **YouTube Channel** | https://www.youtube.com/@FourierIntelligence-Robotics |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Fourier_(company)                                                     |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Fourier_(company)       |
 
 ### [GR-1](https://www.youtube.com/watch?v=_MBd_XfXy9M)
 
@@ -412,9 +419,11 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Galbot Robotics</div>
 
-|                     |                                                       |
-| ------------------- | ----------------------------------------------------- |
-| **Country**         | 🇨🇳 China                                              |
+|                     |                                                               |
+| ------------------- | ------------------------------------------------------------- |
+| **Name**            | Beijing Galaxy General Robot Co., Ltd. (also known as Galbot) |
+| **Country**         | 🇨🇳 China                                                      |
+| **Founded**         | 2023                                                          |
 
 ### [Galbot G1](https://www.youtube.com/watch?v=9ML9mOcHSQA)
 
@@ -443,9 +452,11 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Humanoid</div>
 
-|                  |                 |
-| ---------------- | --------------- |
+|                  |                          |
+| ---------------- | ------------------------ |
 | **Country**      | 🇬🇧 United Kingdom        |
+| **Founded**      | 2024                                  |
+| **Website**      | https://thehumanoid.ai/               |
 
 ### [HMND 01](https://www.youtube.com/watch?v=x0nTOypt0zA)
 
@@ -456,6 +467,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                  |                 |
 | ---------------- | --------------- |
 | **Country**      | 🇨🇳 China        |
+| **Founded**      | 2023                                  |
 | **Website**         | https://www.gotokepler.com/home                             |
 | **YouTube Channel** | https://www.youtube.com/@KeplerRobot |
 
@@ -729,6 +741,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [IEEE ROBOTS](https://robotsguide.com/)
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
 - [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
+- [Humanoid.guide](https://humanoid.guide/)
 
 ### Videos
 
