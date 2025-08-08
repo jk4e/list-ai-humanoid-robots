@@ -61,6 +61,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Fourier](#fourier)
   - [GR-1](#gr-1)
   - [GR-2](#gr-2)
+  - [GR-3](#gr-3)
 - [Galbot Robotics](#galbot-robotics)
   - [Galbot G1](#galbot-g1)
 - [Hanson Robotics](#hanson-robotics)
@@ -107,6 +108,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Unitree Robotics](#unitree-robotics)
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
+  - [Unitree R1](#unitree-r1)
 - [Xiaomi](#xiaomi)
   - [CyberOne](#cyberone)
 - [Xpeng](#xpeng)
@@ -404,6 +406,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/jWTWWuzB6Cg/0.jpg)](https://www.youtube.com/watch?v=jWTWWuzB6Cg)
 
+### [GR-3](https://www.youtube.com/watch?v=siuwJWkjDgs)
+
+[![YouTube](https://img.youtube.com/vi/siuwJWkjDgs/0.jpg)](https://www.youtube.com/watch?v=siuwJWkjDgs)
+
 ## <div align="center">Galbot Robotics</div>
 
 |                     |                                                       |
@@ -627,11 +633,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/cpraXaw7dyc/0.jpg)](https://www.youtube.com/watch?v=cpraXaw7dyc)
 
-<!--
-Tesla Bot Update https://www.youtube.com/watch?v=XiQkeWOFwmk
-
-Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
--->
 
 ## <div align="center">UBTECH Robotics</div>
 
@@ -685,6 +686,10 @@ Tesla Bot Update | Sort & Stretch https://www.youtube.com/watch?v=D2vj0WcvH5c
 ### [Unitree H1](https://www.youtube.com/watch?v=83ShvgtyFAg)
 
 [![YouTube](https://img.youtube.com/vi/83ShvgtyFAg/0.jpg)](https://www.youtube.com/watch?v=83ShvgtyFAg)
+
+### [Unitree R1](https://www.youtube.com/watch?v=v1Q4Su54iho)
+
+[![YouTube](https://img.youtube.com/vi/v1Q4Su54iho/0.jpg)](https://www.youtube.com/watch?v=v1Q4Su54iho)
 
 ## <div align="center">Xiaomi</div>
 
