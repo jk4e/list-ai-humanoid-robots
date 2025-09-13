@@ -62,6 +62,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [GR-1](#gr-1)
   - [GR-2](#gr-2)
   - [GR-3](#gr-3)
+  - [N1](#n1)
 - [Galbot Robotics](#galbot-robotics)
   - [Galbot G1](#galbot-g1)
 - [Hanson Robotics](#hanson-robotics)
@@ -109,6 +110,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
   - [Unitree R1](#unitree-r1)
+- [WIRobotics](#wirobotics)
+  - [ALLEX](#allex)
 - [Xiaomi](#xiaomi)
   - [CyberOne](#cyberone)
 - [Xpeng](#xpeng)
@@ -417,6 +420,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/siuwJWkjDgs/0.jpg)](https://www.youtube.com/watch?v=siuwJWkjDgs)
 
+### [N1](https://www.youtube.com/watch?v=b94_W7JiR-8)
+
+[![YouTube](https://img.youtube.com/vi/b94_W7JiR-8/0.jpg)](https://www.youtube.com/watch?v=b94_W7JiR-8)
+
 ## <div align="center">Galbot Robotics</div>
 
 |                     |                                                               |
@@ -703,6 +710,18 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/v1Q4Su54iho/0.jpg)](https://www.youtube.com/watch?v=v1Q4Su54iho)
 
+## <div align="center">WIRobotics</div>
+
+|                  |                                        |
+| ---------------- | -------------------------------------- |
+| **Country**      | 🇰🇷 South Korea                         |
+| **YouTube Channel** | https://www.youtube.com/@WIRobotics |
+| **Website**         | https://www.wirobotics.com          |
+
+### [ALLEX](https://www.youtube.com/watch?v=qT2UZ3oN4xI)
+
+[![YouTube](https://img.youtube.com/vi/qT2UZ3oN4xI/0.jpg)](https://www.youtube.com/watch?v=qT2UZ3oN4xI)
+
 ## <div align="center">Xiaomi</div>
 
 |                     |                                      |
@@ -721,9 +740,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Xpeng</div>
 
-|                  |                 |
-| ---------------- | --------------- |
-| **Country**      | 🇨🇳 China        |
+|                     |                                            |
+| ------------------- | ------------------------------------------ |
+| **Country**         | 🇨🇳 China                                   |
+| **Headquarters**    | Guangzhou, Guangdong, China                |
+| **Founded**         | 2014                                       |
+| **YouTube Channel** | https://www.youtube.com/@XPENGMotorsGlobal |
+| **Website**         | https://www.xiaopeng.com/                  |
 
 ### [Iron](https://www.youtube.com/watch?v=4AOpIeNjmdc)
 
