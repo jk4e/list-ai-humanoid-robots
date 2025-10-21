@@ -46,6 +46,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Protoclone](#protoclone)
 - [Deep Robotics](#deep-robotics)
   - [DR01](#dr01)
+  - [DR02](#dr-02)
 - [Diligent Robotics](#diligent-robotics)
   - [Moxi](#moxi)
 - [EngineAI](#engineai)
@@ -324,6 +325,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [DR01](https://www.youtube.com/watch?v=lCFyfh3mLOQ)
 
 [![YouTube](https://img.youtube.com/vi/lCFyfh3mLOQ/0.jpg)](https://www.youtube.com/watch?v=lCFyfh3mLOQ)
+
+### [DR02](https://www.youtube.com/watch?v=e0cIZgkTn4M)
+
+[![YouTube](https://img.youtube.com/vi/e0cIZgkTn4M/0.jpg)](https://www.youtube.com/watch?v=e0cIZgkTn4M)
 
 ## <div align="center">Diligent Robotics</div>
 
