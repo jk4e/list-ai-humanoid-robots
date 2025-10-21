@@ -56,6 +56,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Figure 01](#figure-01)
   - [Figure 02](#figure-02)
   - [Helix](#helix)
+  - [Figure 03](#figure-03)
 - [Foundation Robotics]()
   - [Phantom]()
 - [Fourier](#fourier)
@@ -110,6 +111,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Unitree G1](#unitree-g1)
   - [Unitree H1](#unitree-h1)
   - [Unitree R1](#unitree-r1)
+  - [Unitree H2](#unitree-h2)
 - [WIRobotics](#wirobotics)
   - [ALLEX](#allex)
 - [Xiaomi](#xiaomi)
@@ -396,6 +398,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [Helix](https://www.youtube.com/watch?v=Z3yQHYNXPws)
 
 [![YouTube](https://img.youtube.com/vi/Z3yQHYNXPws/0.jpg)](https://www.youtube.com/watch?v=Z3yQHYNXPws)
+
+### [Figure 03](https://www.youtube.com/watch?v=Eu5mYMavctM)
+
+[![YouTube](https://img.youtube.com/vi/Eu5mYMavctM/0.jpg)](https://www.youtube.com/watch?v=Eu5mYMavctM)
 
 ## <div align="center">Fourier</div>
 
@@ -709,6 +715,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [Unitree R1](https://www.youtube.com/watch?v=v1Q4Su54iho)
 
 [![YouTube](https://img.youtube.com/vi/v1Q4Su54iho/0.jpg)](https://www.youtube.com/watch?v=v1Q4Su54iho)
+
+### [Unitree H2](https://www.youtube.com/watch?v=eUdBIFkMh-M)
+
+[![YouTube](https://img.youtube.com/vi/eUdBIFkMh-M/0.jpg)](https://www.youtube.com/watch?v=eUdBIFkMh-M)
 
 ## <div align="center">WIRobotics</div>
 
