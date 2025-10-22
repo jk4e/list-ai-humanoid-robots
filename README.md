@@ -49,6 +49,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [DR02](#dr-02)
 - [Diligent Robotics](#diligent-robotics)
   - [Moxi](#moxi)
+- [DOBOT](#dobot)
+ - [Atom](#atom)   
 - [EngineAI](#engineai)
   - [SE01](#se01)
   - [PM01](#pm01)
@@ -345,6 +347,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [Moxi](https://www.youtube.com/watch?v=TAS0LpNR-Gw)
 
 [![YouTube](https://img.youtube.com/vi/TAS0LpNR-Gw/0.jpg)](https://www.youtube.com/watch?v=TAS0LpNR-Gw)
+
+## <div align="center">DOBOT</div>
+
+### [Atom](https://www.youtube.com/watch?v=CrDyoVR2dnk)
+
+[![YouTube](https://img.youtube.com/vi/CrDyoVR2dnk/0.jpg)](https://www.youtube.com/watch?v=CrDyoVR2dnk)
+
 
 ## <div align="center">EngineAI</div>
 
