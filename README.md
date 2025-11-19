@@ -20,6 +20,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [EVE](#eve)
   - [NEO Beta](#neo-beta)
   - [NEO Gamma](#neo-gamma)
+  - [NEO](#neo)
 - [AgiBot](#agibot)
   - [AgiBot RAISE A1](#agibot-raise-a1)
   - [AgiBot A2](#agibot-a2)
@@ -30,10 +31,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Astra](#astra)
 - [Astribot](#astribot)
   - [Astribot S1](#astribot-s1)
-- [Beyond Imagination](#beyond-imagination)
-  - [Beomni](#beomni)
-- [Boardwalk Robotics](#boardwalk-robotics)
-  - [ALEX](#alex)
 - [Booster Robotics](#booster-robotics)
   - [Booster T1](#booster-t1)
 - [Boston Dynamics](#boston-dynamics)
@@ -132,7 +129,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                                         |
 | ------------------- | ------------------------------------------------------- |
 | **Name**            | 1X Technologies                                         |
-| **Country**         | 🇺🇸 United States, Norway                                |
+| **Country**         | 🇺🇸 United States, 🇳🇴 Norway                             |
 | **Headquarters**    | Sunnyvale, California, USA; Moss, Norway                |
 | **Founded**         | 2014                                                    |
 | **Website**         | https://www.1x.tech/                                    |
@@ -151,6 +148,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 ### [NEO Gamma](https://www.youtube.com/watch?v=uVcBa6NXAbk)
 
 [![YouTube](https://img.youtube.com/vi/uVcBa6NXAbk/0.jpg)](https://www.youtube.com/watch?v=uVcBa6NXAbk)
+
+### [NEO](https://www.youtube.com/watch?v=LTYMWadOW7c)
+
+[![YouTube](https://img.youtube.com/vi/LTYMWadOW7c/0.jpg)](https://www.youtube.com/watch?v=LTYMWadOW7c)
 
 ## <div align="center">AgiBot</div>
 
@@ -225,23 +226,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/AePEcHIIk9s/0.jpg)](https://www.youtube.com/watch?v=AePEcHIIk9s)
 
-## <div align="center">Beyond Imagination</div>
-
-|             |                          |
-| ----------- | ------------------------ |
-| **Name**    | Beyond Imagination, Inc. |
-| **Website** | https://www.beomni.ai/   |
-
-### Beomni
-
-## <div align="center">Boardwalk Robotics</div>
-
-|             |                                |
-| ----------- | ------------------------------ |
-| **Website** | https://boardwalkrobotics.com/ |
-
-### ALEX
-
 ## <div align="center">Booster Robotics</div>
 
 |                     |                                          |
@@ -299,6 +283,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                                          |
 | ------------------- | -------------------------------------------------------- |
 | **Country**         | 🇵🇱 Poland                                                |
+| **Headquarters**    | Wrocław, Poland                                          |
 | **Founded**         | 2021                                                     |
 | **Website**         | https://clonerobotics.com/                               |
 | **YouTube Channel** | https://www.youtube.com/channel/UCd0xLOw6No5IAsq3Y2-b0eA |
@@ -357,13 +342,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">EngineAI</div>
 
-|                     |                                         |
-| ------------------- | --------------------------------------- |
-| **Country**         | 🇨🇳 China                                |
-| **Founded**         | 2023                                    |
-| **Website**         | https://www.engineai.com.cn/            |
-| **YouTube Channel** | https://www.youtube.com/@Engineairobot  |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Engine_AI |
+|                     |                                                  |
+| ------------------- | ------------------------------------------------ |
+| **Country**         | 🇨🇳 China                                         |
+| **Headquarters**    | Shenzhen, Guangdong, China                       |
+| **Founded**         | 2023                                             |
+| **Website**         | https://www.engineai.com.cn/                     |
+| **YouTube Channel** | https://www.youtube.com/@Engineairobot           |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Engine_AI          |
+| **Crunchbase**      | https://www.crunchbase.com/organization/engineai |
 
 ### [SE01](https://www.youtube.com/watch?v=I7Oh-ma4o1A)
 
@@ -451,6 +438,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Name**            | Beijing Galaxy General Robot Co., Ltd. (also known as Galbot) |
 | **Country**         | 🇨🇳 China                                                      |
 | **Founded**         | 2023                                                          |
+| **Website**         | https://www.galbot.com/                                       |
+| **YouTube Channel** | https://www.youtube.com/channel/UCtWK-1gf-HoocxS-DUirRow      |
 
 ### [Galbot G1](https://www.youtube.com/watch?v=9ML9mOcHSQA)
 
@@ -479,11 +468,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Humanoid</div>
 
-|                  |                          |
-| ---------------- | ------------------------ |
-| **Country**      | 🇬🇧 United Kingdom        |
-| **Founded**      | 2024                                  |
-| **Website**      | https://thehumanoid.ai/               |
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **Country**         | 🇬🇧 United Kingdom                      |
+| **Headquarters**    | London, England                        |
+| **Founded**         | 2024                                   |
+| **Website**         | https://thehumanoid.ai/                |
+| **YouTube Channel** | https://www.youtube.com/@TheHumanoidAI |
 
 ### [HMND 01](https://www.youtube.com/watch?v=x0nTOypt0zA)
 
@@ -491,11 +482,11 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Kepler Robotics</div>
 
-|                  |                 |
-| ---------------- | --------------- |
-| **Country**      | 🇨🇳 China        |
-| **Founded**      | 2023                                  |
-| **Website**         | https://www.gotokepler.com/home                             |
+|                     |                                      |
+| ------------------- | ------------------------------------ |
+| **Country**         | 🇨🇳 China                             |
+| **Founded**         | 2023                                 |
+| **Website**         | https://www.gotokepler.com/home      |
 | **YouTube Channel** | https://www.youtube.com/@KeplerRobot |
 
 ### [Forerunner K2](https://www.youtube.com/watch?v=iWC8rSjDywU)
@@ -509,6 +500,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ---------------- | ---------------------------------------- |
 | **Country**      | 🇨🇳 China                                 |
 | **Headquarters** | Shenzhen, China                          |
+| **Website**         | https://www.limxdynamics.com/en      |
 | **YouTube Channel** | https://www.youtube.com/@LimXDynamics |
 
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
@@ -545,6 +537,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Founded**         | 2019                                   |
 | **Website**         | https://neura-robotics.com/            |
 | **YouTube Channel** | https://www.youtube.com/@NEURARobotics |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Neura_Robotics |
 
 ### [4NE-1](https://www.youtube.com/watch?v=SGR-FTNeMAI)
 
@@ -573,6 +566,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Founded**         | 2024                                      |
 | **Website**         | https://www.pndbotics.com/                |
 | **YouTube Channel** | https://www.youtube.com/@PNDbotics/videos |
+| **Crunchbase**      | https://www.crunchbase.com/organization/pndbotics |
 
 ### [Adam](https://www.youtube.com/watch?v=Nmyymmd7bgE)
 
@@ -608,7 +602,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | **Country**         | 🇨🇳 China                                |
-| **Headquarters**    | China                                   |
+| **Headquarters**    | Beijing, China                          |
 | **Founded**         | 2023                                    |
 | **Website**         | https://www.robotera.com/               |
 | **YouTube Channel** | https://www.youtube.com/@ROBOTERA-pg4ew |
@@ -662,7 +656,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | ----------------------------------------- |
 | **Name**            | Tesla, Inc.                               |
 | **Country**         | 🇺🇸 United States                          |
-| **Headquarters**    | Austin, Texas , USA                       |
+| **Headquarters**    | Austin, Texas, USA                        |
 | **Founded**         | 2003                                      |
 | **Website**         | https://www.tesla.com                     |
 | **YouTube Channel** | https://www.youtube.com/@tesla            |
@@ -736,11 +730,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">WIRobotics</div>
 
-|                  |                                        |
-| ---------------- | -------------------------------------- |
-| **Country**      | 🇰🇷 South Korea                         |
-| **YouTube Channel** | https://www.youtube.com/@WIRobotics |
-| **Website**         | https://www.wirobotics.com          |
+|                     |                                                    |
+| ------------------- | -------------------------------------------------- |
+| **Country**         | 🇰🇷 South Korea                                     |
+| **Headquarters**    | Yongin, Ch'ungch'ong-namdo, South Korea            |
+| **YouTube Channel** | https://www.youtube.com/@WIRobotics                |
+| **Website**         | https://www.wirobotics.com                         |
+| **Crunchbase**      | https://www.crunchbase.com/organization/wirobotics |
 
 ### [ALLEX](https://www.youtube.com/watch?v=qT2UZ3oN4xI)
 
@@ -771,6 +767,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Founded**         | 2014                                       |
 | **YouTube Channel** | https://www.youtube.com/@XPENGMotorsGlobal |
 | **Website**         | https://www.xiaopeng.com/                  |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/XPeng        |
 
 ### [Iron](https://www.youtube.com/watch?v=4AOpIeNjmdc)
 
