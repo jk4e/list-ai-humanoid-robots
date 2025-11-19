@@ -12,9 +12,9 @@ The goal is to provide an up-to-date overview of the state of the art in humanoi
 
 Note: Your contributions are welcome! If you notice any missing information, errors, or typos, please open an issue or submit a pull request. Thank you!
 
-### Index
+## Index
 
-#### Companies
+### Companies
 
 - [1X Technologies](#1x-technologies)
   - [EVE](#eve)
@@ -119,7 +119,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [Xpeng](#xpeng)
   - [Iron](#iron)
 
-#### Related Lists and Sources
+### Related Lists and Sources
 
 - [Lists](#lists)
 - [Coverage of the topic in the media](#videos)
