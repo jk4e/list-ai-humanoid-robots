@@ -181,11 +181,10 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
-| **Country**         | 🇨🇳 China                               |
-| **Headquarters**    | Shanghai, China                        |
-| **Founded**         | 2023                                   |
-| **Website**         | https://www.agibot.com/                |
-| **YouTube Channel** | https://www.youtube.com/@About-AgiBot  |
+| **Country**         | 🇩🇪 Germany                             |
+| **Headquarters**    | Munich, Germany                        |
+| **Website**         | https://www.agile-robots.com/en        |
+| **YouTube Channel** | https://www.youtube.com/@Agile_Robots  |
 
 ### [Agile ONE](https://www.youtube.com/watch?v=1iM6oe4D66w)
 
