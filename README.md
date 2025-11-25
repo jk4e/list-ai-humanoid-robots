@@ -14,7 +14,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## Index
 
-### Companies
+### Humanoid robots
 
 - [1X Technologies](#1x-technologies)
   - [EVE](#eve)
@@ -24,6 +24,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [AgiBot](#agibot)
   - [AgiBot RAISE A1](#agibot-raise-a1)
   - [AgiBot A2](#agibot-a2)
+- [Agile Robots](#agile-robots)
+  - [Agile ONE](#agile-one)
 - [Agility Robotics](#agility-robotics)
   - [Digit](#digit)
 - [Apptronik](#apptronik)
@@ -43,7 +45,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [Protoclone](#protoclone)
 - [Deep Robotics](#deep-robotics)
   - [DR01](#dr01)
-  - [DR02](#dr-02)
+  - [DR02](#dr02)
 - [Diligent Robotics](#diligent-robotics)
   - [Moxi](#moxi)
 - [DOBOT](#dobot)
@@ -98,7 +100,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [L7](#l7)
 - [Sanctuary AI](#sanctuary-ai)
   - [Phoenix Gen 7](#phoenix-gen-7)
-- [Softbank Robotics](#softbank-robotics)
 - [Tesla](#tesla)
   - [Optimus Gen 2](#tesla-botoptimus-gen-2)
 - [UBTECH Robotics](#ubtech-robotics)
@@ -118,6 +119,11 @@ Note: Your contributions are welcome! If you notice any missing information, err
   - [CyberOne](#cyberone)
 - [Xpeng](#xpeng)
   - [Iron](#iron)
+ 
+### AI Robotic Models
+
+- [NVIDIA Isaac GR00T](https://developer.nvidia.com/isaac/gr00t)
+- [Skild AI](https://www.skild.ai/)
 
 ### Related Lists and Sources
 
@@ -128,7 +134,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                                         |
 | ------------------- | ------------------------------------------------------- |
-| **Name**            | 1X Technologies                                         |
 | **Country**         | 🇺🇸 United States, 🇳🇴 Norway                             |
 | **Headquarters**    | Sunnyvale, California, USA; Moss, Norway                |
 | **Founded**         | 2014                                                    |
@@ -157,7 +162,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
-| **Name**            | AgiBot (also known as Zhiyuan Robotics)|
 | **Country**         | 🇨🇳 China                               |
 | **Headquarters**    | Shanghai, China                        |
 | **Founded**         | 2023                                   |
@@ -173,11 +177,24 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 [![YouTube](https://img.youtube.com/vi/DQHGV3hrnL0/0.jpg)](https://www.youtube.com/watch?v=DQHGV3hrnL0)
 
+## <div align="center">Agile Robots</div>
+
+|                     |                                        |
+| ------------------- | -------------------------------------- |
+| **Country**         | 🇨🇳 China                               |
+| **Headquarters**    | Shanghai, China                        |
+| **Founded**         | 2023                                   |
+| **Website**         | https://www.agibot.com/                |
+| **YouTube Channel** | https://www.youtube.com/@About-AgiBot  |
+
+### [Agile ONE](https://www.youtube.com/watch?v=1iM6oe4D66w)
+
+[![YouTube](https://img.youtube.com/vi/1iM6oe4D66w/0.jpg)](https://www.youtube.com/watch?v=1iM6oe4D66w)
+
 ## <div align="center">Agility Robotics</div>
 
 |                     |                                                          |
 | ------------------- | -------------------------------------------------------- |
-| **Name**            | Agility Robotics, Inc.                                   |
 | **Country**         | 🇺🇸 United States                                         |
 | **Headquarters**    | Albany, Oregon, USA                                      |
 | **Founded**         | 2015                                                     |
@@ -192,15 +209,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Apptronik</div>
 
-|                     |                                        |
-| ------------------- | -------------------------------------- |
-| **Name**            | Apptronik, Inc.                        |
-| **Country**         | 🇺🇸 United States                       |
-| **Headquarters**    | Austin, Texas, USA                     |
-| **Founded**         | 2012                                   |
-| **Website**         | https://apptronik.com/                 |
-| **YouTube Channel** | https://www.youtube.com/@apptronik8459 |
-| **Wikipedia**       | -                                      |
+|                     |                                                   |
+| ------------------- | ------------------------------------------------- |
+| **Country**         | 🇺🇸 United States                                  |
+| **Headquarters**    | Austin, Texas, USA                                |
+| **Founded**         | 2012                                              |
+| **Website**         | https://apptronik.com/                            |
+| **YouTube Channel** | https://www.youtube.com/@apptronik8459            |
+| **Wikipedia**       | -                                                 |
+| **Crunchbase**      | https://www.crunchbase.com/organization/apptronik |
 
 ### [Apollo](https://www.youtube.com/watch?v=uJOA5IDaL5g)
 
@@ -212,15 +229,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Astribot</div>
 
-|                     |                                    |
-| ------------------- | ---------------------------------- |
-| **Name**            | Astribot Inc.                      |
-| **Country**         | 🇨🇳 China                           |
-| **Headquarters**    | Shenzhen, China                    |
-| **Founded**         | 2022                               |
-| **Website**         | https://astribot.com/index-en.html |
-| **YouTube Channel** | https://www.youtube.com/@Astribot  |
-| **Wikipedia**       | -                                  |
+|                     |                                                  |
+| ------------------- | ------------------------------------------------ |
+| **Country**         | 🇨🇳 China                                         |
+| **Headquarters**    | Shenzhen, China                                  |
+| **Founded**         | 2022                                             |
+| **Website**         | https://astribot.com/index-en.html               |
+| **YouTube Channel** | https://www.youtube.com/@Astribot                |
+| **Wikipedia**       | -                                                |
+| **Crunchbase**      | https://www.crunchbase.com/organization/astribot |
 
 ### [Astribot S1](https://www.youtube.com/watch?v=AePEcHIIk9s)
 
@@ -230,12 +247,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                          |
 | ------------------- | ---------------------------------------- |
-| **Name**            | Booster Robotics Technology Co., Ltd.    |
 | **Country**         | 🇨🇳 China                                 |
 | **Headquarters**    | Beijing, China                           |
 | **Founded**         | 2023                                     |
 | **Website**         | https://boosterobotics.com/              |
 | **YouTube Channel** | https://www.youtube.com/@BoosterRobotics |
+| **Wikipedia**       | -                                        |
+| **Crunchbase**      | https://www.crunchbase.com/organization/accelerating-evolution |
 
 ### [Booster T1](https://www.youtube.com/watch?v=WXcz-4QBmTY)
 
@@ -243,15 +261,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Boston Dynamics</div>
 
-|                     |                                               |
-| ------------------- | --------------------------------------------- |
-| **Name**            | Boston Dynamics, Inc.                         |
-| **Country**         | 🇺🇸 United States                              |
-| **Headquarters**    | Waltham, Massachusetts, USA                   |
-| **Founded**         | 1992                                          |
-| **Website**         | https://www.bostondynamics.com                |
-| **YouTube Channel** | https://www.youtube.com/@BostonDynamics       |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Boston_Dynamics |
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| **Country**         | 🇺🇸 United States                                        |
+| **Headquarters**    | Waltham, Massachusetts, USA                             |
+| **Founded**         | 1992                                                    |
+| **Website**         | https://www.bostondynamics.com                          |
+| **YouTube Channel** | https://www.youtube.com/@BostonDynamics                 |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Boston_Dynamics           |
+| **Crunchbase**      | https://www.crunchbase.com/organization/boston-dynamics |
 
 ### [Atlas](https://www.youtube.com/watch?v=29ECwExc-_M)
 
@@ -270,6 +288,8 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | **Headquarters**    | Beijing, China                                         |
 | **Founded**         | 2023                                                   |
 | **Website**         | https://www.casbot.tech/                               |
+| **YouTube Channel** | https://www.youtube.com/@CASBOT_official               |
+| **Wikipedia**       | -                                                      |
 | **Crunchbase**      | https://www.crunchbase.com/organization/lingbao-casbot |
 
 ### [CASBOT 01](https://www.youtube.com/watch?v=GZsgJ-wg6SI)
@@ -321,7 +341,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                                           |
 | ------------------- | --------------------------------------------------------- |
-| **Name**            | Diligent Robotics Inc.                                    |
 | **Country**         | 🇺🇸 United States                                          |
 | **Headquarters**    | Austin, Texas, USA                                        |
 | **Founded**         | 2017                                                      |
@@ -364,7 +383,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                               |
 | ------------------- | --------------------------------------------- |
-| **Name**            | Engineered Arts Ltd                           |
 | **Country**         | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England                                    |
 | **Headquarters**    | Falmouth, Cornwall, England                   |
 | **Founded**         | 2004                                          |
@@ -380,7 +398,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
-| **Name**            | Figure AI, Inc.                         |
 | **Country**         | 🇺🇸 United States                        |
 | **Headquarters**    | Sunnyvale, California, USA              |
 | **Founded**         | 2022                                    |
@@ -435,7 +452,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                                               |
 | ------------------- | ------------------------------------------------------------- |
-| **Name**            | Beijing Galaxy General Robot Co., Ltd. (also known as Galbot) |
 | **Country**         | 🇨🇳 China                                                      |
 | **Founded**         | 2023                                                          |
 | **Website**         | https://www.galbot.com/                                       |
@@ -450,7 +466,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                                |
 | ------------------- | ---------------------------------------------- |
-| **Name**            | Hanson Robotics Limited                        |
 | **Country**         | 🇭🇰 Hong Kong                                   |
 | **Headquarters**    | Science Park, Hong Kong                        |
 | **Founded**         | 2007                                           |
@@ -482,12 +497,14 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Kepler Robotics</div>
 
-|                     |                                      |
-| ------------------- | ------------------------------------ |
-| **Country**         | 🇨🇳 China                             |
-| **Founded**         | 2023                                 |
-| **Website**         | https://www.gotokepler.com/home      |
-| **YouTube Channel** | https://www.youtube.com/@KeplerRobot |
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| **Country**         | 🇨🇳 China                                                |
+| **Headquarters**    | Shanghai, China                                         |
+| **Founded**         | 2023                                                    |
+| **Website**         | https://www.gotokepler.com/home                         |
+| **YouTube Channel** | https://www.youtube.com/@KeplerRobot                    |
+| **Crunchbase**      | https://www.crunchbase.com/organization/kepler-robotics |
 
 ### [Forerunner K2](https://www.youtube.com/watch?v=iWC8rSjDywU)
 
@@ -496,12 +513,13 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">LimX Dynamics</div>
 
-|                  |                                          |
-| ---------------- | ---------------------------------------- |
-| **Country**      | 🇨🇳 China                                 |
-| **Headquarters** | Shenzhen, China                          |
-| **Website**         | https://www.limxdynamics.com/en      |
-| **YouTube Channel** | https://www.youtube.com/@LimXDynamics |
+|                     |                                          |
+| ------------------- | ---------------------------------------- |
+| **Country**         | 🇨🇳 China                                 |
+| **Headquarters**    | Shenzhen, China                          |
+| **Founded**         | 2022                                     |
+| **Website**         | https://www.limxdynamics.com/en          |
+| **YouTube Channel** | https://www.youtube.com/@LimXDynamics    |
 
 ### [CL-1](https://www.youtube.com/watch?v=11Iz8x27jS4)
 
@@ -515,7 +533,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                                         |
 | ------------------- | ------------------------------------------------------- |
-| **Name**            | Mentee Robotics                                         |
 | **Country**         | 🇮🇱 Israel                                               |
 | **Headquarters**    | Herzliya, Israel                                        |
 | **Founded**         | 2022                                                    |
@@ -531,7 +548,6 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
-| **Name**            | NEURA Robotics GmbH                    |
 | **Country**         | 🇩🇪 Germany                             |
 | **Headquarters**    | Metzingen, Germany                     |
 | **Founded**         | 2019                                   |
@@ -629,38 +645,30 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Sanctuary AI</div>
 
-|                     |                                         |
-| ------------------- | --------------------------------------- |
-| **Name**            | Sanctuary Cognitive Systems Corporation |
-| **Country**         | 🇨🇦 Canada                               |
-| **Headquarters**    | Vancouver, British Columbia, Canada     |
-| **Founded**         | 2018                                    |
-| **Website**         | https://sanctuary.ai/                   |
-| **YouTube Channel** | https://www.youtube.com/@sanctuaryai    |
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Country**         | 🇨🇦 Canada                                            |
+| **Headquarters**    | Vancouver, British Columbia, Canada                  |
+| **Founded**         | 2018                                                 |
+| **Website**         | https://sanctuary.ai/                                |
+| **YouTube Channel** | https://www.youtube.com/@sanctuaryai                 |
 | **Crunchbase**      | https://www.crunchbase.com/organization/sanctuary-ai |
 
 ### [Phoenix Gen 7](https://www.youtube.com/watch?v=-HizP4UQvug)
 
 [![YouTube](https://img.youtube.com/vi/-HizP4UQvug/0.jpg)](https://www.youtube.com/watch?v=-HizP4UQvug)
 
-## <div align="center">Softbank Robotics</div>
-
-|             |                                  |
-| ----------- | -------------------------------- |
-| **Name**    | Softbank Robotics America, Inc.  |
-| **Website** | https://us.softbankrobotics.com/ |
-
 ## <div align="center">Tesla</div>
 
-|                     |                                           |
-| ------------------- | ----------------------------------------- |
-| **Name**            | Tesla, Inc.                               |
-| **Country**         | 🇺🇸 United States                          |
-| **Headquarters**    | Austin, Texas, USA                        |
-| **Founded**         | 2003                                      |
-| **Website**         | https://www.tesla.com                     |
-| **YouTube Channel** | https://www.youtube.com/@tesla            |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Tesla,_Inc. |
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Country**         | 🇺🇸 United States                                     |
+| **Headquarters**    | Austin, Texas, USA                                   |
+| **Founded**         | 2003                                                 |
+| **Website**         | https://www.tesla.com                                |
+| **YouTube Channel** | https://www.youtube.com/@tesla                       |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Tesla,_Inc.            |
+| **Crunchbase**      | https://www.crunchbase.com/organization/tesla-motors |
 
 ### [Tesla Bot/Optimus Gen 2](https://www.youtube.com/watch?v=cpraXaw7dyc)
 
@@ -669,15 +677,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">UBTECH Robotics</div>
 
-|                     |                                         |
-| ------------------- | --------------------------------------- |
-| **Name**            | UBTECH Robotics                         |
-| **Country**         | 🇨🇳 China                                |
-| **Headquarters**    | Shenzhen, China                         |
-| **Founded**         | 2012                                    |
-| **Website**         | https://www.ubtrobot.com/               |
-| **YouTube Channel** | https://www.youtube.com/@ubtechrobotics |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/UBtech_Robotics |
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| **Country**         | 🇨🇳 China                                       |
+| **Headquarters**    | Shenzhen, China                                |
+| **Founded**         | 2012                                           |
+| **Website**         | https://www.ubtrobot.com/                      |
+| **YouTube Channel** | https://www.youtube.com/@ubtechrobotics        |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/UBtech_Robotics  |
+| **Crunchbase**      | https://www.crunchbase.com/organization/ubtech |
 
 ### [Walker S](https://www.youtube.com/watch?v=8MRDF2pkIRs&t=0s)
 
@@ -702,15 +710,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Unitree Robotics</div>
 
-|                     |                                                |
-| ------------------- | ---------------------------------------------- |
-| **Name**            | Unitree Robotics                               |
-| **Country**         | 🇨🇳 China                                       |
-| **Headquarters**    | Hangzhou City, Zhejiang Province, China        |
-| **Founded**         | 2016                                           |
-| **Website**         | https://www.unitree.com/                       |
-| **YouTube Channel** | https://www.youtube.com/@unitreerobotics       |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Unitree_Robotics |
+|                     |                                                          |
+| ------------------- | -------------------------------------------------------- |
+| **Country**         | 🇨🇳 China                                                 |
+| **Headquarters**    | Hangzhou City, Zhejiang Province, China                  |
+| **Founded**         | 2016                                                     |
+| **Website**         | https://www.unitree.com/                                 |
+| **YouTube Channel** | https://www.youtube.com/@unitreerobotics                 |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Unitree_Robotics           |
+| **Crunchbase**      | https://www.crunchbase.com/organization/unitree-robotics |
 
 ### [Unitree G1](https://www.youtube.com/watch?v=GzX1qOIO1bE)
 
@@ -734,6 +742,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 | ------------------- | -------------------------------------------------- |
 | **Country**         | 🇰🇷 South Korea                                     |
 | **Headquarters**    | Yongin, Ch'ungch'ong-namdo, South Korea            |
+| **Founded**         | 2021                                               |
 | **YouTube Channel** | https://www.youtube.com/@WIRobotics                |
 | **Website**         | https://www.wirobotics.com                         |
 | **Crunchbase**      | https://www.crunchbase.com/organization/wirobotics |
@@ -744,15 +753,15 @@ Note: Your contributions are welcome! If you notice any missing information, err
 
 ## <div align="center">Xiaomi</div>
 
-|                     |                                      |
-| ------------------- | ------------------------------------ |
-| **Name**            | Xiaomi Corporation                   |
-| **Country**         | 🇨🇳 China                             |
-| **Headquarters**    | Beijing, China                       |
-| **Founded**         | 2010                                 |
-| **Website**         | https://www.mi.com/                  |
-| **YouTube Channel** | https://www.youtube.com/@xiaomi      |
-| **Wikipedia**       | https://en.wikipedia.org/wiki/Xiaomi |
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| **Country**         | 🇨🇳 China                                       |
+| **Headquarters**    | Beijing, China                                 |
+| **Founded**         | 2010                                           |
+| **Website**         | https://www.mi.com/                            |
+| **YouTube Channel** | https://www.youtube.com/@xiaomi                |
+| **Wikipedia**       | https://en.wikipedia.org/wiki/Xiaomi           |
+| **Crunchbase**      | https://www.crunchbase.com/organization/xiaomi |
 
 ### [CyberOne](https://www.youtube.com/watch?v=I28Q9czUx2Q)
 
