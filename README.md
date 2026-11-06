@@ -794,6 +794,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
 - [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 - [Humanoid.guide](https://humanoid.guide/)
+- [RoboFinders](https://robofinders.com/humanoid-robot-prices) - Independent robot directory. Humanoid price guide and free CSV, each price linked to the maker's source with a checked date (maintained by the submitter)
 
 ### Videos
 
