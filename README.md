@@ -794,6 +794,7 @@ Note: Your contributions are welcome! If you notice any missing information, err
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
 - [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 - [Humanoid.guide](https://humanoid.guide/)
+- [Humanoid Robots Guide](https://humanoidrobotsguide.com/humanoid-robot-comparison/) — task/access comparison with dated maker sources
 
 ### Videos
 
